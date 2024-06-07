@@ -1,20 +1,24 @@
+* {
+    border: 1px solid red;
+  }
+
 html, body{
     margin: 0; 
     padding: 0;
 }
 
-
-body{
-    
-}
-
-#poop h1{
-    font-family: 'Roboto', sans-serif;
+header{
+    font-family: "Times New Roman", sans-serif;
     font-weight: 200;
-    color: rgb(40, 190, 3);
+    background-color: blue;
+    align-items: center;
 }
 
-#piss{
-    font-family: 'Roboto', sans-serif;
-    color: rgb(219, 124, 14);
+header, h1{
+    align-items: center;
 }
+
+#website_name{
+    align-content: center;
+}
+
