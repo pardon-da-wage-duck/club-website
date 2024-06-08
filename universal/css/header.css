@@ -1,0 +1,44 @@
+/**header*/
+header{
+    font-weight: 200;
+    background-color: white;
+}
+
+header a img{
+    position: static;
+
+}
+
+#website_name{
+    position: fixed;
+    top: 0;
+    left: 500px;
+    text-align: center;
+    font-size: 50px;
+    color: #032d64;
+}
+
+/**styling for the navigation bar*/
+nav {
+    overflow: hidden;
+    background-color: #032d64;
+}
+  
+nav a {
+    float: left;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+}
+  
+nav a:hover {
+    background-color: #0777f8;
+    color: white;
+}
+  
+nav a.active {  
+    background-color: rgb(0, 131, 253);
+    color: white;
+}
