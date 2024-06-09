@@ -1,19 +1,30 @@
+/**body*/
+* {
+    border: 1px solid red;
+}
+
+body {
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
 /**header*/
 header{
     font-weight: 200;
     background-color: white;
+    width: 100%;
 }
 
 header a img{
     position: static;
-
 }
 
 #website_name{
-    position: fixed;
-    top: 0;
-    left: 500px;
+    position: absolute;
+    top: 0%;
+    left: 25%;
     text-align: center;
+    font-family: 'Times New Roman', Times, serif;
     font-size: 50px;
     color: #032d64;
 }
@@ -27,6 +38,7 @@ nav {
 nav a {
     float: left;
     color: white;
+    background-color: #032d64;
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
@@ -34,11 +46,17 @@ nav a {
 }
   
 nav a:hover {
-    background-color: #0777f8;
-    color: white;
+    background-color: #0165d8;
 }
-  
-nav a.active {  
-    background-color: rgb(0, 131, 253);
+
+/**footer*/
+footer span{
+    position: fixed; 
+    bottom: 0;
+    background-color: #032d64;
+    width: 100%;
+}
+
+footer p{
     color: white;
 }
