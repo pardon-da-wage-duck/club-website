@@ -1,0 +1,2946 @@
+[
+ {
+  "club": "10x Devs",
+  "advisor_name": "Michael Miller",
+  "email": "mmiller25@schools.nyc.gov",
+  "rooms": "1N3",
+  "meeting_days": "Wednesday",
+  "frequency": "Biweekly"
+ },
+ {
+  "club": "4H",
+  "advisor_name": "Willam Cheung",
+  "email": "WCheung13@schools.nyc.gov",
+  "rooms": "6W18",
+  "meeting_days": "Tuesdays",
+  "frequency": "Biweekly"
+ },
+ {
+  "club": "Abortion Access Club",
+  "advisor_name": "Mr. Locke",
+  "email": "jlocke2@schools.nyc.gov",
+  "rooms": "BN3",
+  "meeting_days": "Monday",
+  "frequency": "Weekly"
+ },
+ {
+  "club": "ACS Chemistry Club",
+  "advisor_name": "Mr. Sooraj Nair",
+  "email": "snair2@schools.nyc.gov",
+  "rooms": "6S6",
+  "meeting_days": "Monday",
+  "frequency": "Biweekly"
+ },
+ {
+  "club": "ACT",
+  "advisor_name": "Stevens",
+  "email": "astevens@schools.nyc.gov",
+  "rooms": "",
+  "meeting_days": "",
+  "frequency": ""
+ },
+ {
+  "club": "Adopted Student Alliance",
+  "advisor_name": "Jeffrey Locke",
+  "email": "Jlocke2@schools.nyc.gov",
+  "rooms": "BN5",
+  "meeting_days": "Thursday",
+  "frequency": "Monthly"
+ },
+ {
+  "club": "ADVANCED Badminton Club",
+  "advisor_name": "Ms. Besler",
+  "email": "abesler@schools.nyc.gov",
+  "rooms": "Gym 8 (8E14)",
+  "meeting_days": "Fridays",
+  "frequency": "Monthly"
+ },
+ {
+  "club": "ADVANCED Baseball Club",
+  "advisor_name": "Joe Nardiello",
+  "email": "JNardiello@schools.nyc.gov",
+  "rooms": "3S12",
+  "meeting_days": "Tuesdays & Thursdays",
+  "frequency": "Based on availability of practice facilities."
+ },
+ {
+  "club": "ADVANCED Bowling Club",
+  "advisor_name": "Carla Sigona",
+  "email": "csigona@schools.nyc.gov",
+  "rooms": "Melody Lanes 461 37th St, Brooklyn, NY 11232",
+  "meeting_days": "???",
+  "frequency": "???"
+ },
+ {
+  "club": "ADVANCED Bowling Club",
+  "advisor_name": "Ms. Besler",
+  "email": "abesler@schools.nyc.gov",
+  "rooms": "Melody Lane(8E14)",
+  "meeting_days": "Fridays",
+  "frequency": "Monthly"
+ },
+ {
+  "club": "ADVANCED BTHS Stunt",
+  "advisor_name": "Raquel Maysonet-Sigler",
+  "email": "rmaysonetsigler@schools.nyc.gov",
+  "rooms": "BS12",
+  "meeting_days": "Wednesdays",
+  "frequency": "Weekly"
+ },
+ {
+  "club": "ADVANCED Football Club",
+  "advisor_name": "Brian Pugh/Joseph Maro/Kyle Council",
+  "email": "bpugh2@schools.nyc.gov",
+  "rooms": "3S12, 4E2, 4W2",
+  "meeting_days": "MWF - 3S12, TU - 4E2, TH - 4W2",
+  "frequency": "Daily"
+ },
+ {
+  "club": "ADVANCED Girls Basketball Club",
+  "advisor_name": "David Weiss",
+  "email": "Dweiss2@schools.nyc.gov",
+  "rooms": "gym 1 or gym 8",
+  "meeting_days": "Depending on Availability in PE Department",
+  "frequency": "Biweekly"
+ },
+ {
+  "club": "ADVANCED Table Tennis Club",
+  "advisor_name": "Ms. Besler",
+  "email": "abesler@schools.nyc.gov",
+  "rooms": "South East Cafe(8E14)",
+  "meeting_days": "Fridays",
+  "frequency": "Monthly"
+ },
+ {
+  "club": "ADVANCED Table Tennis Club",
+  "advisor_name": "Ms. Besler",
+  "email": "abesler@schools.nyc.gov",
+  "rooms": "South East Cafeteria",
+  "meeting_days": "Monday",
+  "frequency": "Monthly"
+ },
+ {
+  "club": "ADVANCED Wrestling Club",
+  "advisor_name": "Liju Abraham/Daniel Higuera",
+  "email": "LAbraham2@schools.nyc.gov",
+  "rooms": "2C3",
+  "meeting_days": "Monday",
+  "frequency": "Weekly"
+ },
+ {
+  "club": "Aeromechanical Engineering & Design",
+  "advisor_name": "Todd Hatch",
+  "email": "thatch@schools.nyc.gov",
+  "rooms": "3N3",
+  "meeting_days": "Tuesdays",
+  "frequency": "Weekly"
+ },
+ {
+  "club": "Aerospace",
+  "advisor_name": "Thomas Price",
+  "email": "tprice@schools.nyc.gov",
+  "rooms": "3N3",
+  "meeting_days": "Friday",
+  "frequency": "Bi-weekly"
+ },
+ {
+  "club": "AI Club",
+  "advisor_name": "Luke Moffitt",
+  "email": "lmoffitt@schools.nyc.gov",
+  "rooms": "1E1",
+  "meeting_days": "Tuesday",
+  "frequency": "1st and 3rd of Every Month"
+ },
+ {
+  "club": "AIAS architecture club",
+  "advisor_name": "Richard Wanliss",
+  "email": "rwanlis@schools.nyc.gov",
+  "rooms": "5N4",
+  "meeting_days": "Friday",
+  "frequency": "Weekly"
+ },
+ {
+  "club": "AImagine",
+  "advisor_name": "Shubhra Breivogel",
+  "email": "SBreivogel@schools.nyc.gov",
+  "rooms": "5E7",
+  "meeting_days": "Tuesdays",
+  "frequency": "Weekly"
+ },
+ {
+  "club": "American Sign Language Club",
+  "advisor_name": "Esther Kabalkin",
+  "email": "EKabalkin@schools.nyc.gov",
+  "rooms": "5S2",
+  "meeting_days": "Thursday",
+  "frequency": "Monthly (4th week)"
+ },
+ {
+  "club": "American Society of Civil Engineers (ASCE)",
+  "advisor_name": "Michael Boulis",
+  "email": "mboulis@schools.nyc.gov",
+  "rooms": "2N4",
+  "meeting_days": "Wednesday",
+  "frequency": "Weekly"
+ },
+ {
+  "club": "Anatomy",
+  "advisor_name": "Christa Martin",
+  "email": "cmartin39@schools.nyc.gov",
+  "rooms": "5S5 (Needs more clarification here)",
+  "meeting_days": "Thursday",
+  "frequency": "Weekly"
+ },
+ {
+  "club": "Anime Connections Club",
+  "advisor_name": "Reina Joa",
+  "email": "rjoa@schools.nyc.gov",
+  "rooms": "2N4",
+  "meeting_days": "Wednesday",
+  "frequency": "Weekly"
+ },
+ {
+  "club": "AP Science Podium",
+  "advisor_name": "Ms. O'Brien",
+  "email": "iobrien2@schools.nyc.gov",
+  "rooms": "2S12",
+  "meeting_days": "Friday",
+  "frequency": "Bi-Weekly"
+ },
+ {
+  "club": "Archery BTHS",
+  "advisor_name": "Kellan Mansano",
+  "email": "kmansano@schools.nyc.gov",
+  "rooms": "6S08",
+  "meeting_days": "Wednesdays",
+  "frequency": "2nd of Every Month"
+ },
+ {
+  "club": "Art and Culture Club",
+  "advisor_name": "Evan Schwartz",
+  "email": "eschwartz2@schools.nyc.gov",
+  "rooms": "1N6",
+  "meeting_days": "Friday",
+  "frequency": "Biweekly"
+ },
+ {
+  "club": "Art Club",
+  "advisor_name": "Patricia Yee",
+  "email": "pyee2@schools.nyc.gov",
+  "rooms": "2W7",
+  "meeting_days": "Thursday",
+  "frequency": "Weekly"
+ },
+ {
+  "club": "Artificial IntelliGents",
+  "advisor_name": "Michael Miller",
+  "email": "mmiller25@schools.nyc.gov",
+  "rooms": "1N4",
+  "meeting_days": "Tuesday",
+  "frequency": "Bi-weekly"
+ },
+ {
+  "club": "Artist Alley",
+  "advisor_name": "Mr Hoiming Lee",
+  "email": "hlee37@schools.nyc.gov",
+  "rooms": "4N4",
+  "meeting_days": "Tuesday",
+  "frequency": "Bi-weekly"
+ },
+ {
+  "club": "Artistic Cinematography",
+  "advisor_name": "Mr.Bigsby",
+  "email": "Bbigsby@schools.nyc.gov",
+  "rooms": "3N6",
+  "meeting_days": "Tuesday",
+  "frequency": "Last Week of Every Month"
+ },
+ {
+  "club": "Asian Diversity Inspired",
+  "advisor_name": "Ella DeCosta",
+  "email": "EDecosta@schools.nyc.gov",
+  "rooms": "4W8",
+  "meeting_days": "Thursday",
+  "frequency": "Bi-weekly"
+ },
+ {
+  "club": "Aspira",
+  "advisor_name": "Kimberly Rivas",
+  "email": "Krivas6@schools.nyc.gov",
+  "rooms": "5E8",
+  "meeting_days": "Thursday",
+  "frequency": "Weekly"
+ },
+ {
+  "club": "Aspire",
+  "advisor_name": "Sandra Del Valle",
+  "email": "sdelvalle3@nyc.schools.gov",
+  "rooms": "4W22",
+  "meeting_days": "Tuesdays & Thursdays",
+  "frequency": "Weekly"
+ },
+ {
+  "club": "Astronomy",
+  "advisor_name": "Thomas Evangelist",
+  "email": "tevange@schools.nyc.gov",
+  "rooms": "4S2",
+  "meeting_days": "Wednesday",
+  "frequency": "Bi-weekly"
+ },
+ {
+  "club": "Badminton Club",
+  "advisor_name": "Mr.Ewing",
+  "email": "vewing@schools.nyc.gov",
+  "rooms": "South East Cafeteria",
+  "meeting_days": "Monday",
+  "frequency": "Weekly"
+ },
+ {
+  "club": "Badminton Club",
+  "advisor_name": "Vincent Ewing",
+  "email": "vewing@schools.nyc.gov",
+  "rooms": "South East Cafe",
+  "meeting_days": "Mondays",
+  "frequency": "Weekly"
+ },
+ {
+  "club": "baking club",
+  "advisor_name": "Alise Braick",
+  "email": "abraick@schools.nyc.gov",
+  "rooms": "6C6",
+  "meeting_days": "Thursdays",
+  "frequency": "Monthly"
+ },
+ {
+  "club": "BC2M",
+  "advisor_name": "Shirley Dong",
+  "email": "SDong@schools.nyc.gov",
+  "rooms": "6S2",
+  "meeting_days": "Wednesday",
+  "frequency": "Bi-weekly"
+ },
+ {
+  "club": "Be-U club",
+  "advisor_name": "Alessandra De Meo",
+  "email": "ademeo2@schools.nyc.gov",
+  "rooms": "6W24",
+  "meeting_days": "Monday",
+  "frequency": "Weekly"
+ },
+ {
+  "club": "Beading and Bracelet Club",
+  "advisor_name": "Ken Ip",
+  "email": "kip@schools.nyc.gov",
+  "rooms": "7S5",
+  "meeting_days": "Tuesday",
+  "frequency": "All Tuesday's execept first tuesday"
+ },
+ {
+  "club": "Beat Saber/VR Club",
+  "advisor_name": "Callistus Chiemezie",
+  "email": "cchiemezie@schools.nyc.gov",
+  "rooms": "5S4",
+  "meeting_days": "Friday",
+  "frequency": "Weekly"
+ },
+ {
+  "club": "Bengali Cultural Students Association",
+  "advisor_name": "Jean Torres",
+  "email": "jtorres52@schools.nyc.gov",
+  "rooms": "4E16",
+  "meeting_days": "Friday",
+  "frequency": "Bi-weekly"
+ },
+ {
+  "club": "Best Buddies Club",
+  "advisor_name": "Annalise Armenta",
+  "email": "aarmenta@schools.nyc.gov",
+  "rooms": "",
+  "meeting_days": "",
+  "frequency": ""
+ },
+ {
+  "club": "BETA Club",
+  "advisor_name": "Shirley Dong Shameen",
+  "email": "sdong@schools.nyc.gov",
+  "rooms": "5E6",
+  "meeting_days": "Wednesday",
+  "frequency": "Monthly (1st)"
+ },
+ {
+  "club": "Big Brain club",
+  "advisor_name": "Shirley Dong Shameen",
+  "email": "sdong@schools.nyc.gov",
+  "rooms": "6S2",
+  "meeting_days": "Wednesday",
+  "frequency": "Bi-weekly"
+ },
+ {
+  "club": "BioEthics",
+  "advisor_name": "Mr. Lee",
+  "email": "HLee37@schools.nyc.gov",
+  "rooms": "4N6",
+  "meeting_days": "Thursday",
+  "frequency": "Bi-weekly"
+ },
+ {
+  "club": "Biotech club",
+  "advisor_name": "Ms. Huczko",
+  "email": "khuczko2@schools.nyc.gov",
+  "rooms": "5N7",
+  "meeting_days": "Tuesday",
+  "frequency": "Weekly"
+ },
+ {
+  "club": "Black Students Union",
+  "advisor_name": "Adam Stevens",
+  "email": "astevens@schools.nyc.gov",
+  "rooms": "BN4",
+  "meeting_days": "Monday",
+  "frequency": "Weekly"
+ },
+ {
+  "club": "Board game club",
+  "advisor_name": "Alessandra De Meo",
+  "email": "ademeo2@schools.nyc.gov",
+  "rooms": "6W24",
+  "meeting_days": "Friday",
+  "frequency": "Monthy"
+ },
+ {
+  "club": "Books and Bikes",
+  "advisor_name": "Avram Kline",
+  "email": "akline2@schools.nyc.gov",
+  "rooms": "4W16",
+  "meeting_days": "Wednesday",
+  "frequency": "Weekly"
+ },
+ {
+  "club": "Breakdance Club",
+  "advisor_name": "Ms. Ramona",
+  "email": "rrichar3@schools.nyc.gov",
+  "rooms": "Northeast Cafe",
+  "meeting_days": "Thursday",
+  "frequency": "Weekly"
+ },
+ {
+  "club": "Bridging Borders",
+  "advisor_name": "Adam Stevens",
+  "email": "astevens@schools.nyc.gov",
+  "rooms": "4W2",
+  "meeting_days": "Fridays",
+  "frequency": "Biweekly"
+ },
+ {
+  "club": "Brooklyn Historical Society Club",
+  "advisor_name": "Kellan Mansano",
+  "email": "kmansano@schools.nyc.gov",
+  "rooms": "5E16",
+  "meeting_days": "Thursday",
+  "frequency": "Weekly"
+ },
+ {
+  "club": "Brooklyn Improvnical Club",
+  "advisor_name": "Michael Miller",
+  "email": "mmiller25@schools.nyc.gov",
+  "rooms": "1N4",
+  "meeting_days": "Tuesday",
+  "frequency": "Bi-weekly"
+ },
+ {
+  "club": "Brooklyn Tech Boxing Fitness Club",
+  "advisor_name": "Carlos Blackwood",
+  "email": "cBlackwood3@schools.nyc.gov",
+  "rooms": "6W16",
+  "meeting_days": "Mondays",
+  "frequency": "weekly"
+ },
+ {
+  "club": "Brooklyn Tech Cadet Squadron",
+  "advisor_name": "Louis Morgan",
+  "email": "lmorgan6@schools.nyc.gov",
+  "rooms": "3N3",
+  "meeting_days": "Friday",
+  "frequency": "Bi-weekly"
+ },
+ {
+  "club": "Brooklyn Tech Chapter of the National Honor Society",
+  "advisor_name": "Maria Costa",
+  "email": "mcosta8@schools.nyc.gov",
+  "rooms": "6W19",
+  "meeting_days": "Tuesday",
+  "frequency": "Weekly"
+ },
+ {
+  "club": "Brooklyn Tech Fencing Club",
+  "advisor_name": "Bert Yaged",
+  "email": "byaged@schools.nyc.gov",
+  "rooms": "3W14",
+  "meeting_days": "Thursday",
+  "frequency": "Bi-weekly"
+ },
+ {
+  "club": "Brooklyn Tech Hedge Fund",
+  "advisor_name": "Mr. Richard Wanliss",
+  "email": "rwanlis@schools.nyc.gov",
+  "rooms": "2E20",
+  "meeting_days": "Tuesdays",
+  "frequency": "Biweekly"
+ },
+ {
+  "club": "Brooklyn Tech History Club",
+  "advisor_name": "Sean McManamon",
+  "email": "SMcmana@schools.nyc.gov",
+  "rooms": "6E14",
+  "meeting_days": "Tuesday",
+  "frequency": "Weekly"
+ },
+ {
+  "club": "Brooklyn TechKnights Robotics Team",
+  "advisor_name": "Shaina Doherty",
+  "email": "sdoherty2@schools.nyc.gov",
+  "rooms": "1S12",
+  "meeting_days": "Tuesdays & Thursdays",
+  "frequency": "Weekly"
+ },
+ {
+  "club": "BTHS 3D Design and Assembly Club",
+  "advisor_name": "Mr. Richman",
+  "email": "crichman2@schools.nyc.gov",
+  "rooms": "5N4",
+  "meeting_days": "Tuesday",
+  "frequency": "Bi-Weekly"
+ },
+ {
+  "club": "BTHS Action",
+  "advisor_name": "Mr. Bonheimer",
+  "email": "nbonheimer@schools.nyc.gov",
+  "rooms": "3W11",
+  "meeting_days": "Tuesday",
+  "frequency": "biweekly"
+ },
+ {
+  "club": "BTHS Amateur Radio and Wireless Technology Club",
+  "advisor_name": "Louis Morgan",
+  "email": "lmorgan6@schools.nyc.gov",
+  "rooms": "2S13",
+  "meeting_days": "Thursday",
+  "frequency": "Weekly"
+ },
+ {
+  "club": "BTHS American Cancer Society Club",
+  "advisor_name": "Ms. Hornero",
+  "email": "Rhornero@schools.nyc.gov",
+  "rooms": "5S5",
+  "meeting_days": "Tuesday",
+  "frequency": "Weekly"
+ },
+ {
+  "club": "BTHS Black Belts",
+  "advisor_name": "Jean Torres",
+  "email": "jotress52@schools.nyc.gov",
+  "rooms": "BW22",
+  "meeting_days": "Wednesday",
+  "frequency": "Weekly"
+ },
+ {
+  "club": "BTHS CardMaster Club",
+  "advisor_name": "Luis Vergara",
+  "email": "LVergara2@schools.nyc.gov",
+  "rooms": "2N1",
+  "meeting_days": "Monday",
+  "frequency": "Weekly"
+ },
+ {
+  "club": "BTHS Chamber Music Society",
+  "advisor_name": "Alexander Tasopoulos",
+  "email": "atasopoulos@schools.nyc.gov",
+  "rooms": "9W19",
+  "meeting_days": "Thursday",
+  "frequency": "Weekly"
+ },
+ {
+  "club": "BTHS Digital Art Club",
+  "advisor_name": "Mr. Coyle",
+  "email": "Scoyle2@schools.nyc.gov",
+  "rooms": "2W14",
+  "meeting_days": "Tuesday",
+  "frequency": "Biweekly"
+ },
+ {
+  "club": "BTHS Disaster Club",
+  "advisor_name": "Folwell",
+  "email": "nfolwell@schools.nyc.gov",
+  "rooms": "3W2",
+  "meeting_days": "Mondays",
+  "frequency": "Monthly"
+ },
+ {
+  "club": "BTHS Do Something Club",
+  "advisor_name": "Dr Sarah Hannaford",
+  "email": "shannaford@schools.nyc.gov",
+  "rooms": "3E10",
+  "meeting_days": "Thursday",
+  "frequency": "weekly"
+ },
+ {
+  "club": "BTHS Dragon Boat Club",
+  "advisor_name": "Victoria Cheng",
+  "email": "vcheng@schools.nyc.gov",
+  "rooms": "2E12",
+  "meeting_days": "Thursday",
+  "frequency": "Weekly"
+ },
+ {
+  "club": "BTHS Dungeons and Dragons Club",
+  "advisor_name": "Andrew Brickman",
+  "email": "abrickman@schools.nyc.gov",
+  "rooms": "2N1 & 2N3",
+  "meeting_days": "Friday",
+  "frequency": "Weekly"
+ },
+ {
+  "club": "BTHS Fashion Club",
+  "advisor_name": "Mario Costa",
+  "email": "mcosta8@schools.nyc.gov",
+  "rooms": "6W21",
+  "meeting_days": "Monday",
+  "frequency": "Bi-Weekly"
+ },
+ {
+  "club": "BTHS Fitness Club",
+  "advisor_name": "Joseph Maro",
+  "email": "jmaro5@schools.nyc.gov",
+  "rooms": "3S2",
+  "meeting_days": "Tuesday or Wednesday",
+  "frequency": "Weekly"
+ },
+ {
+  "club": "BTHS Food Club",
+  "advisor_name": "Willie Ho",
+  "email": "who3@schools.nyc.gov",
+  "rooms": "2n1",
+  "meeting_days": "Tuesdays",
+  "frequency": "Weekly"
+ },
+ {
+  "club": "BTHS Girls Learn International",
+  "advisor_name": "Alexandra Carter",
+  "email": "Acarter25@schools.nyc.gov",
+  "rooms": "4W6",
+  "meeting_days": "Monday",
+  "frequency": "Weekly"
+ },
+ {
+  "club": "BTHS Glamour Gals",
+  "advisor_name": "Sean McCaffery",
+  "email": "smccaffery@schools.nyc.gov",
+  "rooms": "4S4",
+  "meeting_days": "Tuesday",
+  "frequency": "Weekly"
+ },
+ {
+  "club": "BTHS Guitar and Ukulele Club",
+  "advisor_name": "Alexander Tasopoulos",
+  "email": "atasopoulos@schools.nyc.gov",
+  "rooms": "6N2",
+  "meeting_days": "Tuesdays",
+  "frequency": "Weekly"
+ },
+ {
+  "club": "BTHS H.O.P.E.",
+  "advisor_name": "William Cheung",
+  "email": "WCheung13@schools.nyc.gov",
+  "rooms": "Audi",
+  "meeting_days": "Wednesday",
+  "frequency": "Monthly"
+ },
+ {
+  "club": "BTHS Hindu Students Council",
+  "advisor_name": "Jean-Paul Torres",
+  "email": "jtorres52@schools.nyc.gov",
+  "rooms": "4W16",
+  "meeting_days": "Thursday",
+  "frequency": "Weekly"
+ },
+ {
+  "club": "BTHS Latin Band",
+  "advisor_name": "Mr. Tasopoulos",
+  "email": "atasopoulos@schools.nyc.gov",
+  "rooms": "8W18",
+  "meeting_days": "Wednesday and Friday",
+  "frequency": "Weekly"
+ },
+ {
+  "club": "BTHS Learntobe",
+  "advisor_name": "Ken Ip",
+  "email": "kip@schools.nyc.gov",
+  "rooms": "7S5",
+  "meeting_days": "Tuesday",
+  "frequency": "Monthly"
+ },
+ {
+  "club": "BTHS Legal Society",
+  "advisor_name": "Mr. Stephen Stavola",
+  "email": "sstavola@schools.nyc.gov",
+  "rooms": "BN03",
+  "meeting_days": "Thursdays",
+  "frequency": "Biweekly"
+ },
+ {
+  "club": "BTHS Multicultural Club",
+  "advisor_name": "Malgorzata Kurzyna",
+  "email": "mkurzyna@schools.nyc.gov",
+  "rooms": "6C2",
+  "meeting_days": "Tuesday",
+  "frequency": "Bi-Weekly (Day 2)"
+ },
+ {
+  "club": "BTHS Neuroscience Club",
+  "advisor_name": "Dr. Estrella",
+  "email": "mestrella15@schools.nyc.gov",
+  "rooms": "5N8",
+  "meeting_days": "Thursday",
+  "frequency": "Weekly"
+ },
+ {
+  "club": "BTHS Outreach",
+  "advisor_name": "Mr. Michael Miller",
+  "email": "mmiller25@schools.nyc.gov",
+  "rooms": "library/auditorium",
+  "meeting_days": "Wednesday",
+  "frequency": "Monthly"
+ },
+ {
+  "club": "BTHS Parliamentary Debate",
+  "advisor_name": "Kellan Mansano",
+  "email": "kmansano@schools.nyc.gov",
+  "rooms": "BN3",
+  "meeting_days": "Tuesday",
+  "frequency": "Weekly"
+ },
+ {
+  "club": "BTHS Pen Pal Club",
+  "advisor_name": "Joy Ferguson",
+  "email": "jferguson9@schools.nyc.gov",
+  "rooms": "library",
+  "meeting_days": "Tuesdays",
+  "frequency": "weekly"
+ },
+ {
+  "club": "BTHS Pokémon Club",
+  "advisor_name": "Victoria Cheng",
+  "email": "vcheng@schools.nyc.gov",
+  "rooms": "3E18",
+  "meeting_days": "Monday",
+  "frequency": "Weekly"
+ },
+ {
+  "club": "BTHS Political Club",
+  "advisor_name": "Hornero Raquel",
+  "email": "RHornero@schools.nyc.gov",
+  "rooms": "5S12",
+  "meeting_days": "Thursday",
+  "frequency": "Biweekly"
+ },
+ {
+  "club": "BTHS Pre-Dental Association",
+  "advisor_name": "Ken Ip",
+  "email": "kip@schools.nyc.gov",
+  "rooms": "7S2",
+  "meeting_days": "Monday",
+  "frequency": "Monthly (3rd)"
+ },
+ {
+  "club": "BTHS Project Sunshine",
+  "advisor_name": "Jennie Ferry",
+  "email": "jferry@schools.nyc.gov",
+  "rooms": "5E22",
+  "meeting_days": "Tuesday",
+  "frequency": "monthly"
+ },
+ {
+  "club": "BTHS Psych for All",
+  "advisor_name": "Sarah Hannaford",
+  "email": "shannaford@schools.nyc.gov",
+  "rooms": "3E18",
+  "meeting_days": "Wednesday",
+  "frequency": "monthly"
+ },
+ {
+  "club": "BTHS Red Cross Club",
+  "advisor_name": "Willie Ho",
+  "email": "WHo3@schools.nyc.gov",
+  "rooms": "Library",
+  "meeting_days": "Thursday",
+  "frequency": "Monthly (2nd)"
+ },
+ {
+  "club": "BTHS Service Collective",
+  "advisor_name": "Ken Ip",
+  "email": "kip@schools.nyc.gov",
+  "rooms": "7S2",
+  "meeting_days": "Monday",
+  "frequency": "Bi-Weekly (Second and Fourth Monday)"
+ },
+ {
+  "club": "BTHS Sews",
+  "advisor_name": "Richard Singler",
+  "email": "rsingler@schools.nyc.gov",
+  "rooms": "5N2",
+  "meeting_days": "Monday",
+  "frequency": "Weekly"
+ },
+ {
+  "club": "BTHS Soccer Analytics",
+  "advisor_name": "Mr. Coyle",
+  "email": "Scoyle2@schools.nyc.gov",
+  "rooms": "2W14",
+  "meeting_days": "Wednesday",
+  "frequency": "Bi-Weekly"
+ },
+ {
+  "club": "BTHS Symphonic Orchestra",
+  "advisor_name": "Alexander Tasopoulos",
+  "email": "atasopoulos@schools.nyc.gov",
+  "rooms": "8W18",
+  "meeting_days": "Tuesday",
+  "frequency": "Weekly"
+ },
+ {
+  "club": "BTHS TaeKwonDo Club",
+  "advisor_name": "Mr. Richman",
+  "email": "CRichman2@schools.nyc.gov",
+  "rooms": "7S5",
+  "meeting_days": "Thursday",
+  "frequency": "Weekly"
+ },
+ {
+  "club": "BTHS Technovation",
+  "advisor_name": "Mr. Taylor",
+  "email": "gtaylor13@schools.nyc.gov",
+  "rooms": "2E20",
+  "meeting_days": "Thursday",
+  "frequency": "Bi-Weekly"
+ },
+ {
+  "club": "BTHS Thinkers Club",
+  "advisor_name": "Mr. Richard Wanliss",
+  "email": "rwanlis@schools.nyc.gov",
+  "rooms": "2 E20",
+  "meeting_days": "Tuesday",
+  "frequency": "First Tuesday Monthly"
+ },
+ {
+  "club": "BTHS URounded",
+  "advisor_name": "Mr. Miller",
+  "email": "mmiller25@schools.nyc.gov",
+  "rooms": "2N8",
+  "meeting_days": "Monday",
+  "frequency": "Monthly"
+ },
+ {
+  "club": "BTHS Vets",
+  "advisor_name": "Samuel Rivera",
+  "email": "srivera82@schools.nyc.gov",
+  "rooms": "1W24",
+  "meeting_days": "Wednesday",
+  "frequency": "monthly"
+ },
+ {
+  "club": "BTHSBlog",
+  "advisor_name": "Ms. Kaplan",
+  "email": "kkaplan5@schools.nyc.gov",
+  "rooms": "5W8",
+  "meeting_days": "Thursday",
+  "frequency": "Bi-weekly"
+ },
+ {
+  "club": "Business For Good Club (BFGC) Chapter",
+  "advisor_name": "Chrystalleni Stivaros",
+  "email": "cstivaros@schools.nyc.gov",
+  "rooms": "3W9",
+  "meeting_days": "Tuesday",
+  "frequency": "Biweekly"
+ },
+ {
+  "club": "C-Rhythm Dance Club",
+  "advisor_name": "Ms Zagoreos",
+  "email": "Mzagoreos@schools.nyc.gov",
+  "rooms": "6E12",
+  "meeting_days": "Tuesday",
+  "frequency": "Weekly"
+ },
+ {
+  "club": "C.B.E.E. Initiative",
+  "advisor_name": "Mr. Singler",
+  "email": "rsingler@schools.nyc.gov",
+  "rooms": "1N6",
+  "meeting_days": "Monday",
+  "frequency": "Bi-Weekly"
+ },
+ {
+  "club": "Calisthenics Club",
+  "advisor_name": "Avram Kline",
+  "email": "akline2@schools.nyc.gov",
+  "rooms": "4W16",
+  "meeting_days": "Monday",
+  "frequency": "Bi-Weekly"
+ },
+ {
+  "club": "Calligraphy Club",
+  "advisor_name": "Tahan Izzat",
+  "email": "ITahan@schools.nyc.gov",
+  "rooms": "BN1",
+  "meeting_days": "Wednesday",
+  "frequency": "Bi-weekly"
+ },
+ {
+  "club": "Card Game",
+  "advisor_name": "Nathan Folwell",
+  "email": "nfolwell@schools.nyc.gov",
+  "rooms": "3W2",
+  "meeting_days": "Thursday",
+  "frequency": "Bi-Weekly (alternating Java Club)"
+ },
+ {
+  "club": "Cards for Hospitalized Kids",
+  "advisor_name": "Sean McCaffery",
+  "email": "SMccaffery@schools.nyc.gov",
+  "rooms": "2E10",
+  "meeting_days": "Mondays",
+  "frequency": "Monthly"
+ },
+ {
+  "club": "Cards4Kindness",
+  "advisor_name": "Patti Stacey",
+  "email": "SPatti@schools.nyc.gov",
+  "rooms": "7S2",
+  "meeting_days": "Tuesday",
+  "frequency": "Monthly (3rd)"
+ },
+ {
+  "club": "Caribbean Culture and Service Club",
+  "advisor_name": "Ms Ford",
+  "email": "TFord@schools.nyc.gov",
+  "rooms": "2W2",
+  "meeting_days": "Monday",
+  "frequency": "Bi-weekly"
+ },
+ {
+  "club": "Casual Gaming Club",
+  "advisor_name": "Willie Ho",
+  "email": "who3@school.nyc.gov",
+  "rooms": "4W18",
+  "meeting_days": "Thursday",
+  "frequency": "Weekly"
+ },
+ {
+  "club": "Central Asian Culture Club",
+  "advisor_name": "Elina Galperin",
+  "email": "egalperin@schools.nyc.gov",
+  "rooms": "2W18",
+  "meeting_days": "Monday",
+  "frequency": "Bi-monthly"
+ },
+ {
+  "club": "Cheer Club",
+  "advisor_name": "Mecner Matthew",
+  "email": "MMecner@schools.nyc.gov",
+  "rooms": "BS12 and SE Cafe",
+  "meeting_days": "Monday (BS12), Wednesdays(SE Cafe), Thursday (BS12)",
+  "frequency": "Bi-daily"
+ },
+ {
+  "club": "Chess Club",
+  "advisor_name": "Luke Moffitt",
+  "email": "lmoffitt@schools.nyc.gov",
+  "rooms": "6N2",
+  "meeting_days": "Wednesdyas",
+  "frequency": "Weekly"
+ },
+ {
+  "club": "Chess Team",
+  "advisor_name": "Richard",
+  "email": "rlopez22@schools.nyc.gov",
+  "rooms": "2N4",
+  "meeting_days": "Thursday",
+  "frequency": "Weekly"
+ },
+ {
+  "club": "Chinese Chorus Club",
+  "advisor_name": "Mr. Hoiming Lee",
+  "email": "hlee37@schools.nyc.gov",
+  "rooms": "4N4",
+  "meeting_days": "Friday",
+  "frequency": "Biweekly"
+ },
+ {
+  "club": "Chinese Cultural Association",
+  "advisor_name": "Dustin Shutes",
+  "email": "dshutes@schools.nyc.gov",
+  "rooms": "2W6",
+  "meeting_days": "Thursday",
+  "frequency": "Weekly"
+ },
+ {
+  "club": "Climbing Club",
+  "advisor_name": "Kathleen Davey",
+  "email": "kdavey@schools.nyc.gov",
+  "rooms": "2E19",
+  "meeting_days": "Wednesday",
+  "frequency": "Monthly"
+ },
+ {
+  "club": "CodeWorks",
+  "advisor_name": "Michael Miller",
+  "email": "mmiller25@schools.nyc.gov",
+  "rooms": "2N8",
+  "meeting_days": "Monday",
+  "frequency": "Twice Monthly"
+ },
+ {
+  "club": "Competitive Coding Club",
+  "advisor_name": "Mr. Holmer",
+  "email": "qholmer@schools.nyc.gov",
+  "rooms": "1N3",
+  "meeting_days": "Monday",
+  "frequency": "Weekly"
+ },
+ {
+  "club": "Congressional Debate Team",
+  "advisor_name": "Richard M. Capozzi",
+  "email": "rcapozz@schools.nyc.gov",
+  "rooms": "5W12",
+  "meeting_days": "Monday and Thursday",
+  "frequency": "Weekly"
+ },
+ {
+  "club": "Contemporary Dance Club",
+  "advisor_name": "Erhhan Kao",
+  "email": "ekao@schools.nyc.gov",
+  "rooms": "2W12",
+  "meeting_days": "Tuesdays",
+  "frequency": "Weekly"
+ },
+ {
+  "club": "Content Creators Club",
+  "advisor_name": "Mr. Bigsby",
+  "email": "bbigsby@schools.nyc.gov",
+  "rooms": "1N4",
+  "meeting_days": "Wednesday",
+  "frequency": "Weekly"
+ },
+ {
+  "club": "Cosplay Club",
+  "advisor_name": "Haralambos Misirlakis",
+  "email": "hmisirlakis@schools.nyc.gov",
+  "rooms": "BW22",
+  "meeting_days": "",
+  "frequency": ""
+ },
+ {
+  "club": "CPR",
+  "advisor_name": "Caitlin Reste",
+  "email": "CReste@schools.nyc.gov",
+  "rooms": "6S5",
+  "meeting_days": "Thursday",
+  "frequency": "Bi-weekly"
+ },
+ {
+  "club": "Crafts for Charity",
+  "advisor_name": "Fakhrudin (Rudy) Miraki",
+  "email": "FMiraki2@schools.nyc.gov",
+  "rooms": "5N6",
+  "meeting_days": "Thursday",
+  "frequency": "Bi-Weekly"
+ },
+ {
+  "club": "Createch",
+  "advisor_name": "Rati Mukhuradze",
+  "email": "rmukhuradze@schools.nyc.gov",
+  "rooms": "6N7",
+  "meeting_days": "Tuesday",
+  "frequency": "Bi-Weekly"
+ },
+ {
+  "club": "Crime Scene Investigation (CSI) Club",
+  "advisor_name": "Christa Martin",
+  "email": "cmartin39@schools.nyc.gov",
+  "rooms": "2W12",
+  "meeting_days": "Wednesday",
+  "frequency": "Bi-weekly"
+ },
+ {
+  "club": "Critters Club",
+  "advisor_name": "Jim wilkins; Dr. Margarita",
+  "email": "jwilkins4@schools.nyc.gov; EMargar@schools.nyc.gov",
+  "rooms": "6W6 & 3E12",
+  "meeting_days": "Monday",
+  "frequency": "Bi-weekly"
+ },
+ {
+  "club": "Crochet Club",
+  "advisor_name": "Ramona Richardson",
+  "email": "rrichar3@schools.nyc.gov",
+  "rooms": "Center Cafe",
+  "meeting_days": "Wednesday and Fridays",
+  "frequency": "Weekly"
+ },
+ {
+  "club": "CryptoClub",
+  "advisor_name": "mr. Bigsby",
+  "email": "bbigsby@schools.nyc.gov",
+  "rooms": "4N6",
+  "meeting_days": "tuesdays",
+  "frequency": "weekly"
+ },
+ {
+  "club": "Dan Trading Cards Club (DTCC)",
+  "advisor_name": "Garfield Taylor",
+  "email": "gtaylor13@schools.nyc.gov",
+  "rooms": "2E20",
+  "meeting_days": "Wednesdays",
+  "frequency": "Weekly"
+ },
+ {
+  "club": "Debate Team",
+  "advisor_name": "James Bathurst",
+  "email": "Jbathurst@schools.nyc.gov",
+  "rooms": "6E8, 6E9, 6E10 , & 6E12",
+  "meeting_days": "Monday, Wednesday, and Friday",
+  "frequency": "Weekly"
+ },
+ {
+  "club": "DECA",
+  "advisor_name": "Sean McManamon",
+  "email": "SMcmana@schools.nyc.gov",
+  "rooms": "6E16",
+  "meeting_days": "Tuesday",
+  "frequency": "Weekly"
+ },
+ {
+  "club": "Dental Club",
+  "advisor_name": "Randy Levadas",
+  "email": "RLevada@schools.nyc.gov",
+  "rooms": "6W23",
+  "meeting_days": "Tuesday",
+  "frequency": "Bi-Monthyl (2nd and 3rd Tuesday)"
+ },
+ {
+  "club": "Dermatology Club",
+  "advisor_name": "Victoria Franco",
+  "email": "VFranco3@schools.nyc.gov",
+  "rooms": "4W6",
+  "meeting_days": "Thursday",
+  "frequency": "Weekly"
+ },
+ {
+  "club": "Disability Awareness & Advocacy Club",
+  "advisor_name": "Jacob Brodsky",
+  "email": "jbrodsky@schools.nyc.gov",
+  "rooms": "6 E2",
+  "meeting_days": "Tuesday",
+  "frequency": "2nd to 3rd Tuesday of the month"
+ },
+ {
+  "club": "Disney Club",
+  "advisor_name": "Luz cely",
+  "email": "lcely@schools.nyc.gov",
+  "rooms": "6W21",
+  "meeting_days": "Tuesday",
+  "frequency": "Monthly"
+ },
+ {
+  "club": "Doctors without Borders Awareness",
+  "advisor_name": "Luke Moffitt",
+  "email": "lmoffitt@schools.nyc.gov",
+  "rooms": "1N3",
+  "meeting_days": "Thursdays",
+  "frequency": "1st and 3rd of Every Month"
+ },
+ {
+  "club": "Dragonboat Club",
+  "advisor_name": "Jeffrey Park",
+  "email": "jpark13@schools.nyc.gov",
+  "rooms": "Southeast Cafe",
+  "meeting_days": "Thursdays",
+  "frequency": "Weekly"
+ },
+ {
+  "club": "economaniacs",
+  "advisor_name": "Mr. Richard Wanliss",
+  "email": "rwanlis@schools.nyc.gov",
+  "rooms": "2E20",
+  "meeting_days": "Tuesday",
+  "frequency": "Monthly"
+ },
+ {
+  "club": "Electro-Mechanical Engineering Club",
+  "advisor_name": "Shaina Doherty",
+  "email": "sdoherty2@schools.nyc.gov",
+  "rooms": "2N8",
+  "meeting_days": "Wednesdays",
+  "frequency": "Weekly"
+ },
+ {
+  "club": "Embroidery",
+  "advisor_name": "Douglas Weiner (Doug)",
+  "email": "dougdouglas1965@gmail.com",
+  "rooms": "6N2",
+  "meeting_days": "Thursdays",
+  "frequency": "Weekly"
+ },
+ {
+  "club": "ENGIN @ BTHS",
+  "advisor_name": "Chrystalleni Stivaros",
+  "email": "cstivaros@schools.nyc.gov",
+  "rooms": "3W9",
+  "meeting_days": "Mondays",
+  "frequency": "Bi-weekly"
+ },
+ {
+  "club": "Enlightened Salon",
+  "advisor_name": "Mukhuradze Rati",
+  "email": "rmukhuradze@schools.nyc.gov",
+  "rooms": "6 E8",
+  "meeting_days": "Thursday",
+  "frequency": "Weekly"
+ },
+ {
+  "club": "Environmental Justice Club",
+  "advisor_name": "Victoria Cheng",
+  "email": "vcheng@schools.nyc.gov",
+  "rooms": "6N2",
+  "meeting_days": "Monday",
+  "frequency": "Weekly"
+ },
+ {
+  "club": "Envirothon",
+  "advisor_name": "Elisa Margarita",
+  "email": "emargar@schools.nyc.gov",
+  "rooms": "3E12",
+  "meeting_days": "Tuesdays & Thursdays",
+  "frequency": "Weekly"
+ },
+ {
+  "club": "Equal City for All",
+  "advisor_name": "Ms. Lev",
+  "email": "nlevey@schools.nyc.gov",
+  "rooms": "Zoom and 5E20",
+  "meeting_days": "Wednesday",
+  "frequency": "Monlthy"
+ },
+ {
+  "club": "eSports Club",
+  "advisor_name": "Willie Ho",
+  "email": "who3@schools.nyc.gov",
+  "rooms": "6N4 & 2N8",
+  "meeting_days": "Wednesday",
+  "frequency": "Monthly"
+ },
+ {
+  "club": "Existentialist Engineers",
+  "advisor_name": "Mr. Hoiming Bonny Lee",
+  "email": "hlee37@schools.nyc.gov",
+  "rooms": "4N4",
+  "meeting_days": "Wednesday",
+  "frequency": "Bi-Monthly"
+ },
+ {
+  "club": "Explore New York",
+  "advisor_name": "Alessandra De Meo",
+  "email": "ademeo2@schools.nyc.gov",
+  "rooms": "6W24",
+  "meeting_days": "Thursday",
+  "frequency": "Bi-Weekly"
+ },
+ {
+  "club": "Fall Play",
+  "advisor_name": "Christina Massie",
+  "email": "cmassie@schools.nyc.gov",
+  "rooms": "Audi or BS12?",
+  "meeting_days": "",
+  "frequency": ""
+ },
+ {
+  "club": "Filipino Culture Club",
+  "advisor_name": "Mr. Esguerra",
+  "email": "mesguerra@schools.nyc.gov",
+  "rooms": "7S5",
+  "meeting_days": "Wednesday",
+  "frequency": "Weekly"
+ },
+ {
+  "club": "Finance (Major) Club",
+  "advisor_name": "Amos Levy",
+  "email": "alevy22@schools.nyc.gov",
+  "rooms": "5N4",
+  "meeting_days": "Monday (Wednesdays Bi-weekly)",
+  "frequency": "Monthly (Only Bi-weekly on Wednesdays)"
+ },
+ {
+  "club": "First Gen in Stem",
+  "advisor_name": "Stephanie Doire",
+  "email": "sdoire@school.nyc.gov",
+  "rooms": "6S2",
+  "meeting_days": "Tuesday",
+  "frequency": "Bi-Weekly"
+ },
+ {
+  "club": "Food Science Club",
+  "advisor_name": "Caroline Leonard",
+  "email": "cleonard14@schools.nyc.gov",
+  "rooms": "6S6",
+  "meeting_days": "Thursday",
+  "frequency": "Bi-Weekly"
+ },
+ {
+  "club": "Forensic Speech Team",
+  "advisor_name": "Ms. Carter A",
+  "email": "ACarter25@schools.nyc.gov",
+  "rooms": "4W6",
+  "meeting_days": "Wednesday",
+  "frequency": "Weekly"
+ },
+ {
+  "club": "French National Honors Society",
+  "advisor_name": "Devin Thomas",
+  "email": "dthomas48@schools.nyc.gov",
+  "rooms": "3E19",
+  "meeting_days": "Thursday",
+  "frequency": "3 Times a Month"
+ },
+ {
+  "club": "Fridge Fridays",
+  "advisor_name": "Arup Mukherjee",
+  "email": "amukherjee@schools.nyc.gov",
+  "rooms": "5W4",
+  "meeting_days": "Friday",
+  "frequency": "Weekly"
+ },
+ {
+  "club": "Future Business Leaders of America",
+  "advisor_name": "Ms.Yale",
+  "email": "lyale2@schools.nyc.gov",
+  "rooms": "6C7",
+  "meeting_days": "Wednesday",
+  "frequency": "Biweekly"
+ },
+ {
+  "club": "Future Enterprises",
+  "advisor_name": "Doug Weiner",
+  "email": "dweiner2@schools.nyc.gov",
+  "rooms": "2W8",
+  "meeting_days": "Wednesday",
+  "frequency": "Bi-monthly"
+ },
+ {
+  "club": "Game development club",
+  "advisor_name": "Avram Kline",
+  "email": "akline2@schools.nyc.gov",
+  "rooms": "2N2",
+  "meeting_days": "Tuesdays",
+  "frequency": "Weekly"
+ },
+ {
+  "club": "Gender-Sexuality Alliance (GSA)",
+  "advisor_name": "Ramona Richardson",
+  "email": "rrichardson@bths.edu",
+  "rooms": "7S5",
+  "meeting_days": "Mondays",
+  "frequency": "Weekly"
+ },
+ {
+  "club": "German Club",
+  "advisor_name": "Cristobal Petersen",
+  "email": "cpetersen2@schools.nyc.gov",
+  "rooms": "2W22",
+  "meeting_days": "Tuesdays",
+  "frequency": "Bi-weekly"
+ },
+ {
+  "club": "Girls Who Code",
+  "advisor_name": "Shaina Doherty",
+  "email": "sdoherty2@schools.nyc.gov",
+  "rooms": "2N2/2N4",
+  "meeting_days": "Mondays",
+  "frequency": "Weekly"
+ },
+ {
+  "club": "Graphic Design Club",
+  "advisor_name": "Tsee Lee",
+  "email": "tlee22@schools.nyc.gov",
+  "rooms": "4N2",
+  "meeting_days": "Friday",
+  "frequency": "Weekly"
+ },
+ {
+  "club": "Green thumb/ Garden Club",
+  "advisor_name": "Elisa Margarita",
+  "email": "emargar@schools.nyc.gov",
+  "rooms": "3E12",
+  "meeting_days": "Wednesdays",
+  "frequency": "Weekly"
+ },
+ {
+  "club": "Guitar",
+  "advisor_name": "Douglas(doug) Weiner",
+  "email": "dougdouglas1965@gmail.com",
+  "rooms": "6N2",
+  "meeting_days": "Tuesdays",
+  "frequency": "Weekly"
+ },
+ {
+  "club": "Hands In Need",
+  "advisor_name": "Sandhya Seshan",
+  "email": "SSeshan@schools.nyc.gov",
+  "rooms": "5W24",
+  "meeting_days": "Wednesday",
+  "frequency": "1-2 times a month"
+ },
+ {
+  "club": "Hands On Engineering",
+  "advisor_name": "Adam",
+  "email": "adriggers@schools.nyc.gov",
+  "rooms": "4N2",
+  "meeting_days": "Thursday",
+  "frequency": "Weekly"
+ },
+ {
+  "club": "Health & Society Club",
+  "advisor_name": "Cincotta",
+  "email": "KCincotta2@schools.nyc.gov",
+  "rooms": "5S2",
+  "meeting_days": "Thursday",
+  "frequency": "Monthly"
+ },
+ {
+  "club": "Hellenic Club",
+  "advisor_name": "Randy Levadas",
+  "email": "RLevada@schools.nyc.gov",
+  "rooms": "6W23",
+  "meeting_days": "Mondays",
+  "frequency": "Weekly"
+ },
+ {
+  "club": "Help the Homeless",
+  "advisor_name": "Sean McCaffery",
+  "email": "smccaffery@schools.nyc.gov",
+  "rooms": "2E10",
+  "meeting_days": "Thursdays",
+  "frequency": "Biweekly"
+ },
+ {
+  "club": "Helping Hands",
+  "advisor_name": "Kate Cook",
+  "email": "kcook@schools.nyc.gov",
+  "rooms": "6w2",
+  "meeting_days": "Monday",
+  "frequency": "biweekly"
+ },
+ {
+  "club": "Henna Club",
+  "advisor_name": "Stephanie Doire",
+  "email": "sdoire@schools.nyc.gov",
+  "rooms": "6S5",
+  "meeting_days": "Wednesdays",
+  "frequency": "Biweekly"
+ },
+ {
+  "club": "History Book Club",
+  "advisor_name": "Mr. Stein",
+  "email": "rstein10@nyc.schools.gov",
+  "rooms": "2E12",
+  "meeting_days": "Tuesday",
+  "frequency": "weekly"
+ },
+ {
+  "club": "Hockey Club",
+  "advisor_name": "Thomas Evangelist",
+  "email": "tevange@schools.nyc.gov",
+  "rooms": "4S6",
+  "meeting_days": "Often",
+  "frequency": "bi-daily"
+ },
+ {
+  "club": "Horizons",
+  "advisor_name": "Melissa Goodrum",
+  "email": "mgoodrum@schools.nyc.gov",
+  "rooms": "2N3",
+  "meeting_days": "Tuesdays",
+  "frequency": "Weekly"
+ },
+ {
+  "club": "Horror Club",
+  "advisor_name": "Arup Mukherjee",
+  "email": "arup1101@gmail.com",
+  "rooms": "5W4",
+  "meeting_days": "Tuesday",
+  "frequency": "Bi-Weekly"
+ },
+ {
+  "club": "HOSA–Future Health Professionals - New York Chapter.",
+  "advisor_name": "Callistus Chiemezie",
+  "email": "cchiemezie@schools.nyc.gov",
+  "rooms": "5S6",
+  "meeting_days": "Wednesday",
+  "frequency": "Bi-Weekly"
+ },
+ {
+  "club": "Hoya Club",
+  "advisor_name": "Nathan Bonheimer",
+  "email": "nbonheimer@schools.nyc.gov",
+  "rooms": "3W11",
+  "meeting_days": "Wednesdays",
+  "frequency": "Monthly"
+ },
+ {
+  "club": "Ink N' Canvas",
+  "advisor_name": "Mr Kline",
+  "email": "akline2@schools.nyc.gov",
+  "rooms": "Friday",
+  "meeting_days": "4W16",
+  "frequency": "Weekly"
+ },
+ {
+  "club": "Interact",
+  "advisor_name": "Richard M. Capozzi",
+  "email": "rcapozz@schools.nyc.gov",
+  "rooms": "Library",
+  "meeting_days": "Friday",
+  "frequency": "Monthly"
+ },
+ {
+  "club": "International Space Station Club",
+  "advisor_name": "Mr. Hoiming Bonny Lee",
+  "email": "HLee37@schools.nyc.gov",
+  "rooms": "4N4",
+  "meeting_days": "Monday",
+  "frequency": "Biweekly"
+ },
+ {
+  "club": "Israel Club",
+  "advisor_name": "Zachary Gale",
+  "email": "zgale@schools.nyc.gov",
+  "rooms": "4S2",
+  "meeting_days": "Mondays",
+  "frequency": "Bi-weekly"
+ },
+ {
+  "club": "Italian Culture Club (ICC)",
+  "advisor_name": "Mario Costa",
+  "email": "mcosta8@schools.nyc.gov",
+  "rooms": "6W21",
+  "meeting_days": "Tuesday",
+  "frequency": "Biweekly"
+ },
+ {
+  "club": "Japanese Heritage and Culture Club",
+  "advisor_name": "Willie Ho",
+  "email": "who3@schools.nyc.gov",
+  "rooms": "4W18",
+  "meeting_days": "Monday",
+  "frequency": "2nd and 4th Mondays every month"
+ },
+ {
+  "club": "Japanese/American Heritage club",
+  "advisor_name": "Michelle FUlop",
+  "email": "mfulop@schools.nyc.gov",
+  "rooms": "6E5",
+  "meeting_days": "Monday",
+  "frequency": "Weekly"
+ },
+ {
+  "club": "Java Club",
+  "advisor_name": "Nathan Folwell",
+  "email": "nfolwell@schools.nyc.gov",
+  "rooms": "3W2",
+  "meeting_days": "Thursday",
+  "frequency": "Biweekly"
+ },
+ {
+  "club": "Jewish Culture Club",
+  "advisor_name": "Louis Abramsky",
+  "email": "l2abramsky@aol.com",
+  "rooms": "4E20",
+  "meeting_days": "Wednesdays",
+  "frequency": "Weekly"
+ },
+ {
+  "club": "Jewish-Muslim Alliance",
+  "advisor_name": "Serge Avery",
+  "email": "savery4@schools.nyc.gov",
+  "rooms": "4W2",
+  "meeting_days": "Tuesdays",
+  "frequency": "Bi-monthly"
+ },
+ {
+  "club": "Junior Jazz Band",
+  "advisor_name": "Deshawn WIthers",
+  "email": "DWithers@schools.nyc.gov",
+  "rooms": "8W18",
+  "meeting_days": "Wednesdays",
+  "frequency": "Weekly"
+ },
+ {
+  "club": "Just Dance Club",
+  "advisor_name": "Samantha Scully",
+  "email": "sscully3@schools.nyc.gov",
+  "rooms": "6C1",
+  "meeting_days": "Mondays",
+  "frequency": "Weekly"
+ },
+ {
+  "club": "Key Club",
+  "advisor_name": "Louis Morgan",
+  "email": "LMorgan6@schools.nyc.gov",
+  "rooms": "2S13",
+  "meeting_days": "Wednesday",
+  "frequency": "Monthly"
+ },
+ {
+  "club": "Knitting Club",
+  "advisor_name": "Judith Ryan",
+  "email": "jryan6@schcools.nyc.gov",
+  "rooms": "2W2",
+  "meeting_days": "Tuesday",
+  "frequency": "Bi-Weekly (alternating Best Buddies)"
+ },
+ {
+  "club": "Kover Dance",
+  "advisor_name": "Izzat Tahan",
+  "email": "itahan@schools.nyc.gov",
+  "rooms": "BN1",
+  "meeting_days": "Tuesdays",
+  "frequency": "Monthly"
+ },
+ {
+  "club": "La Femme",
+  "advisor_name": "Mary Huhn",
+  "email": "mhuhn@schools.nyc.gov",
+  "rooms": "1W24",
+  "meeting_days": "Tuesdays",
+  "frequency": "Weekly"
+ },
+ {
+  "club": "Lady Dragons Step Team",
+  "advisor_name": "Ramona Richardson",
+  "email": "rrichar3@schools.nyc.gov",
+  "rooms": "Cafeteria",
+  "meeting_days": "Everyday",
+  "frequency": "Everyday"
+ },
+ {
+  "club": "Lego Club",
+  "advisor_name": "Mr. Richard Wanliss",
+  "email": "rwanlis@schools.nyc.gov",
+  "rooms": "2 E20",
+  "meeting_days": "Monday",
+  "frequency": "Weekly"
+ },
+ {
+  "club": "Linguistics Club",
+  "advisor_name": "Stephen Harris",
+  "email": "sfharris@schools.nyc.gov",
+  "rooms": "4W22",
+  "meeting_days": "Wednesday",
+  "frequency": "Weekly"
+ },
+ {
+  "club": "Luddite",
+  "advisor_name": "Mary Huhn",
+  "email": "mhuhn@schools.nyc.net",
+  "rooms": "1W24",
+  "meeting_days": "Weekly",
+  "frequency": "Mondays"
+ },
+ {
+  "club": "Magic Club",
+  "advisor_name": "Annalise Armenta",
+  "email": "aarmenta@schools.nyc.gov",
+  "rooms": "2W2",
+  "meeting_days": "Wednesdays",
+  "frequency": "Biweekly"
+ },
+ {
+  "club": "Magic the Gathering",
+  "advisor_name": "Stephanie Doire",
+  "email": "sdoire@schools.nyc.gov",
+  "rooms": "6S5",
+  "meeting_days": "Thursday",
+  "frequency": "Bi-weekly"
+ },
+ {
+  "club": "Mahjong Club",
+  "advisor_name": "Arup Mukherjee",
+  "email": "AMukherjee@schools.nyc.gov",
+  "rooms": "5E14",
+  "meeting_days": "Wednesdays",
+  "frequency": "Weekly"
+ },
+ {
+  "club": "Make-up Club",
+  "advisor_name": "Izzat Tahan",
+  "email": "itahan@schools.nyc.gov",
+  "rooms": "BN1",
+  "meeting_days": "Tuesday",
+  "frequency": "Bi-Weekly"
+ },
+ {
+  "club": "Manga Readers’ Club",
+  "advisor_name": "A. Armenta",
+  "email": "aarmenta@schools.nyc.gov",
+  "rooms": "5W24",
+  "meeting_days": "Tuesday",
+  "frequency": "Weekly"
+ },
+ {
+  "club": "Marvel Club",
+  "advisor_name": "Kellan Mansano",
+  "email": "kmansano@schools.nyc.gov",
+  "rooms": "6E16",
+  "meeting_days": "Monday",
+  "frequency": "Weekly"
+ },
+ {
+  "club": "Math Team Club",
+  "advisor_name": "Amy Lee",
+  "email": "alee33@schools.nyc.gov",
+  "rooms": "5N6/5N7",
+  "meeting_days": "Wednesdays",
+  "frequency": "Weekly"
+ },
+ {
+  "club": "Mechatronics Major Board",
+  "advisor_name": "Rachel Kaufman",
+  "email": "rkaufman8@schools.nyc.gov",
+  "rooms": "2N4",
+  "meeting_days": "Tuesday",
+  "frequency": "Weekly"
+ },
+ {
+  "club": "Med. Case",
+  "advisor_name": "Caitlin",
+  "email": "CReste@schools.nyc.gov",
+  "rooms": "6S8",
+  "meeting_days": "Thursdaty",
+  "frequency": "Bi-weekly"
+ },
+ {
+  "club": "Media Club",
+  "advisor_name": "Evan Schwartz",
+  "email": "eschwartz2@schools.nyc.gov",
+  "rooms": "1N6",
+  "meeting_days": "Wednesdays",
+  "frequency": "Weekly"
+ },
+ {
+  "club": "MEDLIFE BTHS",
+  "advisor_name": "Ms. Doire",
+  "email": "sdoire@schools.nyc.gov",
+  "rooms": "6S5",
+  "meeting_days": "Monday",
+  "frequency": "Biweekly"
+ },
+ {
+  "club": "Men's Mental Health",
+  "advisor_name": "William Ho",
+  "email": "who3@schools.nyc.gov",
+  "rooms": "4W18",
+  "meeting_days": "Wednesday",
+  "frequency": "Biweekly"
+ },
+ {
+  "club": "MetroQuest",
+  "advisor_name": "Mr. Hoiming Bonny Lee",
+  "email": "HLEE37@schools.nyc.gov",
+  "rooms": "4N4",
+  "meeting_days": "Mondays",
+  "frequency": "Biweekly"
+ },
+ {
+  "club": "Microbiology",
+  "advisor_name": "Hadi Nasrollahi",
+  "email": "HNasrollahi@schools.nyc.gov",
+  "rooms": "3N4",
+  "meeting_days": "Fridays",
+  "frequency": "Weekly"
+ },
+ {
+  "club": "Middle Eastern Student Association",
+  "advisor_name": "Mr. Barrington Bigsby",
+  "email": "bbigsby@schools.nyc.gov",
+  "rooms": "6N4",
+  "meeting_days": "Friday",
+  "frequency": "Bi-Weekly"
+ },
+ {
+  "club": "Mindfulness and Meditation",
+  "advisor_name": "Patricia Multari",
+  "email": "pmultari@schools.nyc.gov",
+  "rooms": "3E16",
+  "meeting_days": "Wednesdays",
+  "frequency": "Weekly"
+ },
+ {
+  "club": "Model United Nations",
+  "advisor_name": "Mark Keller",
+  "email": "mkeller8@schools.nyc.gov",
+  "rooms": "6N8",
+  "meeting_days": "Wednesday",
+  "frequency": "Weekly"
+ },
+ {
+  "club": "Moot Court and Mock Trial TEAMS",
+  "advisor_name": "David Schepard",
+  "email": "dschepard@schools.nyc.gov",
+  "rooms": "BN4 (Court Room)",
+  "meeting_days": "Tuesdays & Wednesdays",
+  "frequency": "Weekly"
+ },
+ {
+  "club": "Mu Alpha Theta Club",
+  "advisor_name": "Douglas Shuman",
+  "email": "dshuman@schools.nyc.gov",
+  "rooms": "4C5",
+  "meeting_days": "2nd Monday",
+  "frequency": "Monthly"
+ },
+ {
+  "club": "Mural Painting Club",
+  "advisor_name": "Ms. Kim",
+  "email": "jkim39@schools.nyc.gov",
+  "rooms": "6S8",
+  "meeting_days": "Tuesday",
+  "frequency": "Weekly"
+ },
+ {
+  "club": "Music Club",
+  "advisor_name": "Randy Levadas",
+  "email": "RLevada@schools.nyc.gov",
+  "rooms": "6W23",
+  "meeting_days": "Wednesdays",
+  "frequency": "Weekly"
+ },
+ {
+  "club": "Music Theory Club",
+  "advisor_name": "Deshawn WIthers",
+  "email": "Dwithers@schools.nyc.gov",
+  "rooms": "8W18",
+  "meeting_days": "Tuesdays",
+  "frequency": "Weekly"
+ },
+ {
+  "club": "Muslim Student Association",
+  "advisor_name": "Isaiah Pratt",
+  "email": "Ipratt@schools.nyc.gov",
+  "rooms": "2N3/2N6",
+  "meeting_days": "Thursdays",
+  "frequency": "Weekly"
+ },
+ {
+  "club": "NASAI",
+  "advisor_name": "Ms. Hafeez",
+  "email": "Ahafeez@schools.nyc.gov",
+  "rooms": "3E18",
+  "meeting_days": "Thursdays",
+  "frequency": "Biweekly"
+ },
+ {
+  "club": "National Honor Society",
+  "advisor_name": "Joseph Kaelin",
+  "email": "cosa@bths.edu",
+  "rooms": "Auditorium",
+  "meeting_days": "Wednesdays",
+  "frequency": "Monthly"
+ },
+ {
+  "club": "National Honor Society Club Team Council",
+  "advisor_name": "Louis Morgan",
+  "email": "Imorgan6@schools.nyc.gov",
+  "rooms": "2S13",
+  "meeting_days": "Mondays",
+  "frequency": "Monthly"
+ },
+ {
+  "club": "National Honor Society Community Serices",
+  "advisor_name": "Mr. Luis Vergara",
+  "email": "LVergara2@schools.nyc.gov",
+  "rooms": "2N 1",
+  "meeting_days": "Thursday",
+  "frequency": "Monthly"
+ },
+ {
+  "club": "National Honor Society Outreach Committee",
+  "advisor_name": "Mr. Pettyjohn",
+  "email": "JPettyjohn@schools.nyc.gov",
+  "rooms": "4E20",
+  "meeting_days": "Monday",
+  "frequency": "Monthly"
+ },
+ {
+  "club": "National Honor Society School Environment Services",
+  "advisor_name": "Izzat Tahan",
+  "email": "itahan@schools.nyc.gov",
+  "rooms": "BN1",
+  "meeting_days": "Mondays",
+  "frequency": "Monthly"
+ },
+ {
+  "club": "National Honor Society Tours Committee",
+  "advisor_name": "Peihong Ye",
+  "email": "pye@schools.nyc.gov",
+  "rooms": "6W8",
+  "meeting_days": "Thursday",
+  "frequency": "Monthly"
+ },
+ {
+  "club": "National Honor Society Tutoring",
+  "advisor_name": "Julia DeBenedetto",
+  "email": "jdebenedetto@schools.nyc.gov",
+  "rooms": "4N2",
+  "meeting_days": "Tuesday",
+  "frequency": "Monthly, every 3rd Tuesday of the month"
+ },
+ {
+  "club": "National Society of Black Engineers (NSBE)",
+  "advisor_name": "Jan-Kristòf Louis-Mansano",
+  "email": "bths.nsbe.advisor.jklm@gmail.com",
+  "rooms": "6N4",
+  "meeting_days": "Tuesdays",
+  "frequency": "Weekly"
+ },
+ {
+  "club": "National Tutoring Association",
+  "advisor_name": "Hemal Shah",
+  "email": "Hshah@schools.nyc.gov",
+  "rooms": "4E18",
+  "meeting_days": "Monday",
+  "frequency": "Biweekly"
+ },
+ {
+  "club": "Neurodiversity Club",
+  "advisor_name": "Jim Wilkins",
+  "email": "JWilkins4@schools.nyc.gov",
+  "rooms": "6W6",
+  "meeting_days": "2nd Monday",
+  "frequency": "Monthly"
+ },
+ {
+  "club": "NHS Alumni Services",
+  "advisor_name": "Courtney J. Ulrich ‘90",
+  "email": "Cjulrich@bthsalum.org",
+  "rooms": "6W2",
+  "meeting_days": "Thursday",
+  "frequency": "Monthly"
+ },
+ {
+  "club": "NHS Fundraising Committee",
+  "advisor_name": "Lisa Bensing",
+  "email": "lbensing@schools.nyc.gov",
+  "rooms": "5 E2",
+  "meeting_days": "Wednesday",
+  "frequency": "Monthly"
+ },
+ {
+  "club": "NHS Mentoring Committee",
+  "advisor_name": "Rachel Kaplan",
+  "email": "rkaplan6@schools.nyc.gov",
+  "rooms": "2N8",
+  "meeting_days": "Thursday",
+  "frequency": "Monthly"
+ },
+ {
+  "club": "NHS parent services committee",
+  "advisor_name": "Mary Huhn",
+  "email": "mhuhn@schools.nyc.gov",
+  "rooms": "1W24",
+  "meeting_days": "Fridays",
+  "frequency": "Monthly"
+ },
+ {
+  "club": "NHS-College Services",
+  "advisor_name": "Kimberly Rivas",
+  "email": "Krivas6@schools.nyc.gov",
+  "rooms": "5E9",
+  "meeting_days": "Wednesday",
+  "frequency": "Monthly"
+ },
+ {
+  "club": "NYC Strays",
+  "advisor_name": "Lisa Iacono",
+  "email": "Liacono@schools.nyc.gov",
+  "rooms": "BW10",
+  "meeting_days": "Monday",
+  "frequency": "Bi-Weekly"
+ },
+ {
+  "club": "Oceanic Club",
+  "advisor_name": "Luke Moffitt",
+  "email": "lmoffitt@schools.nyc.gov",
+  "rooms": "1E10",
+  "meeting_days": "Thursday",
+  "frequency": "Bi-Weekly (2nd and 4th Thursday)"
+ },
+ {
+  "club": "Operation Smile Club",
+  "advisor_name": "Randy Levadas",
+  "email": "RLevada@schools.nyc.gov",
+  "rooms": "6W23",
+  "meeting_days": "Tuesdays",
+  "frequency": "Biweekly (First and Last Tuesday of every month)"
+ },
+ {
+  "club": "Organized C.H.A.O.S.",
+  "advisor_name": "Ramona Richardson",
+  "email": "rrichar3@schools.nyc.gov",
+  "rooms": "Cafeteria",
+  "meeting_days": "Everday",
+  "frequency": "Everyday"
+ },
+ {
+  "club": "Origami Club",
+  "advisor_name": "Kathryn Grassel",
+  "email": "kgrassel@schools.nyc.gov",
+  "rooms": "5W2",
+  "meeting_days": "Thursdays",
+  "frequency": "Biweekly"
+ },
+ {
+  "club": "Painting Club",
+  "advisor_name": "Stephanie Doire",
+  "email": "sdoire@schools.nyc.gov",
+  "rooms": "6S4",
+  "meeting_days": "Monday",
+  "frequency": "Weekly"
+ },
+ {
+  "club": "Paper Reimagined Club",
+  "advisor_name": "Ms.Huang",
+  "email": "dhuang5@schools.nyc.gov",
+  "rooms": "5E8",
+  "meeting_days": "Friday",
+  "frequency": "Bi-Weekly"
+ },
+ {
+  "club": "Pathway",
+  "advisor_name": "Jeffery Locke",
+  "email": "Jlocke2@schools.nyc.gov",
+  "rooms": "BN7",
+  "meeting_days": "Thursday",
+  "frequency": "Bi-weekly"
+ },
+ {
+  "club": "Paw Patrol",
+  "advisor_name": "Jean-Paul Torres",
+  "email": "Jtorres52@schools.nyc.gov",
+  "rooms": "Audi/Lib",
+  "meeting_days": "",
+  "frequency": "Bi-monthly"
+ },
+ {
+  "club": "Pearl River Delta Club",
+  "advisor_name": "Ms. Alexander",
+  "email": "aalexander28@schools.nyc",
+  "rooms": "3E2",
+  "meeting_days": "Monday",
+  "frequency": "Biweekly"
+ },
+ {
+  "club": "Philosophy Club",
+  "advisor_name": "William Cheung",
+  "email": "Wcheung13@schools.nyc.gov",
+  "rooms": "6N8",
+  "meeting_days": "Thursday",
+  "frequency": "Weekly"
+ },
+ {
+  "club": "Photography Club",
+  "advisor_name": "Jan-Kristòf Louis-Mansano",
+  "email": "JLouismansano@schools.nyc.gov",
+  "rooms": "4C1",
+  "meeting_days": "Fridays",
+  "frequency": "Weekly"
+ },
+ {
+  "club": "Physics Club",
+  "advisor_name": "Vincent Ewing",
+  "email": "vewing@schools.nyc.gov",
+  "rooms": "2N1",
+  "meeting_days": "Wednesday",
+  "frequency": "Weekly"
+ },
+ {
+  "club": "Physics Olympiad",
+  "advisor_name": "Chiemezie Callistus",
+  "email": "cchiemezie@schools.nyc.gov",
+  "rooms": "5S4",
+  "meeting_days": "Thursday",
+  "frequency": "Weekly"
+ },
+ {
+  "club": "Poetry",
+  "advisor_name": "David Whitman",
+  "email": "dwhitman@schools.nyc.gov",
+  "rooms": "4E20",
+  "meeting_days": "Tuesdays",
+  "frequency": "Weekly"
+ },
+ {
+  "club": "Polish Heritage Club",
+  "advisor_name": "Arup Mukherjee",
+  "email": "amukherjee@schools.nyc.gov",
+  "rooms": "5W20",
+  "meeting_days": "Monday",
+  "frequency": "1st of Month"
+ },
+ {
+  "club": "Political Debate Club",
+  "advisor_name": "Raquel Hornero",
+  "email": "rhornero@schools.nyc.gov",
+  "rooms": "5S5",
+  "meeting_days": "Tuesday",
+  "frequency": "Weekly"
+ },
+ {
+  "club": "Pre-Med Society",
+  "advisor_name": "Shirley Shameen",
+  "email": "SDong@schools.nyc.gov",
+  "rooms": "6S2",
+  "meeting_days": "Wednesdays",
+  "frequency": "Biweekly"
+ },
+ {
+  "club": "Pre-Veterinary Society",
+  "advisor_name": "Diana Lennon",
+  "email": "dlennon6@schools.nyc.gov",
+  "rooms": "3E22",
+  "meeting_days": "Monday",
+  "frequency": "Third Monday"
+ },
+ {
+  "club": "Psychology Club",
+  "advisor_name": "Samuel Armen",
+  "email": "sarmen@schools.nyc.gov",
+  "rooms": "5N6",
+  "meeting_days": "Wednesdays",
+  "frequency": "Weekly"
+ },
+ {
+  "club": "Public Health Awareness Club",
+  "advisor_name": "Evan Losow",
+  "email": "elosow@schools.nyc.gov",
+  "rooms": "5W16",
+  "meeting_days": "Monday",
+  "frequency": "Monthly"
+ },
+ {
+  "club": "puzzle club",
+  "advisor_name": "Chiemezie Callistus",
+  "email": "cchiemezie@schools.nyc.gov",
+  "rooms": "5S4",
+  "meeting_days": "Wednesday",
+  "frequency": "Weekly"
+ },
+ {
+  "club": "Quizbowl",
+  "advisor_name": "Mr. Richman",
+  "email": "crichman2@schools.nyc.gov",
+  "rooms": "6W6",
+  "meeting_days": "Tuesday",
+  "frequency": "Bi-Weekly"
+ },
+ {
+  "club": "Raccoon Artists",
+  "advisor_name": "Eika Gervasi",
+  "email": "egervas@schools.nyc.gov",
+  "rooms": "6W12",
+  "meeting_days": "Tuesday",
+  "frequency": "Weekly"
+ },
+ {
+  "club": "Racquet Sport Club",
+  "advisor_name": "Michelle FUlop",
+  "email": "mfulop@schools.nyc.gov",
+  "rooms": "BS12",
+  "meeting_days": "Tuesday",
+  "frequency": "Bi-weekly"
+ },
+ {
+  "club": "Rare Diseases Club",
+  "advisor_name": "Ken Ip",
+  "email": "kip@schools.nyc.gov",
+  "rooms": "7S2",
+  "meeting_days": "Mondays",
+  "frequency": "Monthly"
+ },
+ {
+  "club": "Recorder Club",
+  "advisor_name": "Kaitlyn Huczko",
+  "email": "khuczko2@schools.nyc.gov",
+  "rooms": "5W8",
+  "meeting_days": "Mondays",
+  "frequency": "Weekly"
+ },
+ {
+  "club": "Reform Club",
+  "advisor_name": "Ms. Cincotta",
+  "email": "KCincotta2@schools.nyc.gov",
+  "rooms": "4W2",
+  "meeting_days": "Monday",
+  "frequency": "Weekly"
+ },
+ {
+  "club": "Rhythm Game Club",
+  "advisor_name": "Brett Verini",
+  "email": "bverini@schools.nyc.gov",
+  "rooms": "5N4",
+  "meeting_days": "Thursday",
+  "frequency": "Weekly"
+ },
+ {
+  "club": "Robotics and Automation Club",
+  "advisor_name": "Ali harb",
+  "email": "aharb@schools.nyc.gov",
+  "rooms": "1S12",
+  "meeting_days": "Thursday",
+  "frequency": "Weekly"
+ },
+ {
+  "club": "Rubik's Cube Club",
+  "advisor_name": "Ms. Greene",
+  "email": "mgreene18@schools.nyc.gov",
+  "rooms": "6S4",
+  "meeting_days": "Thursday",
+  "frequency": "Weekly"
+ },
+ {
+  "club": "SAT Prep Club",
+  "advisor_name": "Mr. Folwell",
+  "email": "nfolwell@schools.nyc.gov",
+  "rooms": "3W2",
+  "meeting_days": "Wednesdays",
+  "frequency": "Weekly"
+ },
+ {
+  "club": "Saving Mothers BTHS",
+  "advisor_name": "Chrystalleni Stivaros",
+  "email": "cstivaros@schools.nyc.gov",
+  "rooms": "3W9",
+  "meeting_days": "Tuesday",
+  "frequency": "Biweekly"
+ },
+ {
+  "club": "Science Bowl",
+  "advisor_name": "Michael Estrella",
+  "email": "mestrella15@schools.nyc.gov",
+  "rooms": "2S13",
+  "meeting_days": "Tuesdays",
+  "frequency": "Weekly"
+ },
+ {
+  "club": "Science National Honor Society",
+  "advisor_name": "Ms. Jackie Manduley",
+  "email": "jmanduley@schools.nyc.gov",
+  "rooms": "BW22",
+  "meeting_days": "Monday",
+  "frequency": "Weekly"
+ },
+ {
+  "club": "Science Olympiad",
+  "advisor_name": "MacRae Maxfield",
+  "email": "mmaxfield@bths.edu",
+  "rooms": "3E10",
+  "meeting_days": "Fridays",
+  "frequency": "Weekly"
+ },
+ {
+  "club": "Scrapbooking Club",
+  "advisor_name": "Patricia Yee",
+  "email": "pyee2@schools.nyc.gov",
+  "rooms": "2W7",
+  "meeting_days": "Tuesdays",
+  "frequency": "Weekly"
+ },
+ {
+  "club": "Sculpting Club",
+  "advisor_name": "Callistus Chiemezie",
+  "email": "cchiemezie@schools.nyc.gov",
+  "rooms": "4W6",
+  "meeting_days": "Tuesday",
+  "frequency": "Biweekly"
+ },
+ {
+  "club": "SEEK",
+  "advisor_name": "Ms. Lev",
+  "email": "nlevey@schools.nyc.gov",
+  "rooms": "5E20",
+  "meeting_days": "Thursdays",
+  "frequency": "Once a month"
+ },
+ {
+  "club": "Seekers Christian Fellowship",
+  "advisor_name": "Ken Ip",
+  "email": "kip@schools.nyc.gov",
+  "rooms": "7S2",
+  "meeting_days": "Thursdays",
+  "frequency": "Weekly"
+ },
+ {
+  "club": "Shared Support",
+  "advisor_name": "Christina Martini",
+  "email": "cmartini@schools.nyc.gov",
+  "rooms": "6S7",
+  "meeting_days": "Varying Lunch Periods",
+  "frequency": "Daily"
+ },
+ {
+  "club": "SHH- Spanish Honor Society",
+  "advisor_name": "Cristina Santiago-Campbell",
+  "email": "csantiagocampbel@schools.nyc.gov",
+  "rooms": "6W18",
+  "meeting_days": "Wednesday",
+  "frequency": "Weekly"
+ },
+ {
+  "club": "Skateboarding Club",
+  "advisor_name": "Verini Brett",
+  "email": "BVerini@schools.nyc.gov",
+  "rooms": "6E6",
+  "meeting_days": "Wednesday",
+  "frequency": "Bi-weekly"
+ },
+ {
+  "club": "Sketching Club",
+  "advisor_name": "Mr. Luis Vergara",
+  "email": "LVergara2@schools.nyc.gov",
+  "rooms": "6N8",
+  "meeting_days": "Friday",
+  "frequency": "Bi-Weekly"
+ },
+ {
+  "club": "Ski Club",
+  "advisor_name": "Dustin Shutes",
+  "email": "dshutes@schools.nyc.gov",
+  "rooms": "3W7",
+  "meeting_days": "Monday",
+  "frequency": "Bimonthly (1st and 3rd)"
+ },
+ {
+  "club": "Soccer Club",
+  "advisor_name": "Mario Costa",
+  "email": "mcosta8@schools.nyc.gov",
+  "rooms": "6W21",
+  "meeting_days": "Friday",
+  "frequency": "Weekly"
+ },
+ {
+  "club": "Social Deduction Game Club",
+  "advisor_name": "Ms. Yale",
+  "email": "lyale2@schools.nyc.gov",
+  "rooms": "6C7",
+  "meeting_days": "Monday",
+  "frequency": "Bi-Weekly"
+ },
+ {
+  "club": "Society for Science",
+  "advisor_name": "Ms. Stephanie Doire",
+  "email": "sdoire@schools.nyc.gov",
+  "rooms": "6S5",
+  "meeting_days": "Wednesday",
+  "frequency": "Monthly"
+ },
+ {
+  "club": "Society of Hispanic Engineers",
+  "advisor_name": "Garfield Taylor",
+  "email": "gtaylor13@schools.nyc.gov",
+  "rooms": "2E20",
+  "meeting_days": "Fridays",
+  "frequency": "Biweekly"
+ },
+ {
+  "club": "Society of Women Engineers",
+  "advisor_name": "Bruce Greenspan",
+  "email": "bgreenspan3@schools.nyc.gov",
+  "rooms": "2W12",
+  "meeting_days": "Thursday",
+  "frequency": "Bi-weekly"
+ },
+ {
+  "club": "Software Development Club",
+  "advisor_name": "Luke Moffitt",
+  "email": "lmoffitt@schools.nyc.gov",
+  "rooms": "1E10",
+  "meeting_days": "Monday",
+  "frequency": "Weekly"
+ },
+ {
+  "club": "Software for Starters",
+  "advisor_name": "Adam Driggers",
+  "email": "adriggers@schools.nyc.gov",
+  "rooms": "4N6",
+  "meeting_days": "Monday",
+  "frequency": "Weekly"
+ },
+ {
+  "club": "South Asian Cultural Club",
+  "advisor_name": "Izzat Tahan",
+  "email": "itahan@schools.nyc.gov",
+  "rooms": "BN5",
+  "meeting_days": "Tuesdays",
+  "frequency": "Weekly"
+ },
+ {
+  "club": "Speak Now",
+  "advisor_name": "Michelle Fulop",
+  "email": "mfulop@schools.nyc.gov",
+  "rooms": "6E5",
+  "meeting_days": "Tuesday",
+  "frequency": "Bi-weekly"
+ },
+ {
+  "club": "Spit Fire",
+  "advisor_name": "Mr. Locke",
+  "email": "jlocke2@schools.nyc.gov",
+  "rooms": "BN3",
+  "meeting_days": "Monday",
+  "frequency": "Bi-Weekly (mixes w/ abortion access club)"
+ },
+ {
+  "club": "Sports Management",
+  "advisor_name": "Shubhra Breivogel",
+  "email": "SBreivogel@schools.nyc.gov",
+  "rooms": "5E7",
+  "meeting_days": "Tuesdays",
+  "frequency": "Weekly"
+ },
+ {
+  "club": "Star Wars Club",
+  "advisor_name": "Ms. Kim",
+  "email": "Jkim39@schools.nyc.gov",
+  "rooms": "4E22",
+  "meeting_days": "Thursday",
+  "frequency": "Biweekly (1st and 3rd)"
+ },
+ {
+  "club": "STEM is Us Club",
+  "advisor_name": "Mr. Luis Vergara",
+  "email": "LVergara2@schools.nyc.gov",
+  "rooms": "5E18",
+  "meeting_days": "Thursday",
+  "frequency": "Monthly (3rd Thursdays)"
+ },
+ {
+  "club": "Sticker Space",
+  "advisor_name": "Heather Berry",
+  "email": "hberry@schools.nyc.gov",
+  "rooms": "5N6",
+  "meeting_days": "Mondays",
+  "frequency": "Bi-weekly"
+ },
+ {
+  "club": "Stock Market Club",
+  "advisor_name": "Mr Shuman",
+  "email": "dshuman@schools.nyc.gov",
+  "rooms": "4C1",
+  "meeting_days": "Monday",
+  "frequency": "Bi-weekly"
+ },
+ {
+  "club": "Student Advocates for Speech (SAS)",
+  "advisor_name": "Ms. Kathleen Nadel",
+  "email": "knadel@schools.nyc.gov",
+  "rooms": "6E10",
+  "meeting_days": "Thursdays",
+  "frequency": "3rd Thursday"
+ },
+ {
+  "club": "Student Government Sustainability Committee",
+  "advisor_name": "Richard M. Capozzi",
+  "email": "rcapozz@schools.nyc.gov",
+  "rooms": "5W12",
+  "meeting_days": "Wednesdays",
+  "frequency": "Weekly"
+ },
+ {
+  "club": "Student Wellness Committee",
+  "advisor_name": "Ken Ip",
+  "email": "kip@schools.nyc.gov",
+  "rooms": "3N6",
+  "meeting_days": "Wednesday",
+  "frequency": "Weekly"
+ },
+ {
+  "club": "Studio",
+  "advisor_name": "David Whitman",
+  "email": "dwhitman@schools.nyc.gov",
+  "rooms": "4E16",
+  "meeting_days": "Mondays",
+  "frequency": "Weekly"
+ },
+ {
+  "club": "Stunt",
+  "advisor_name": "Caitlin Reste",
+  "email": "CReste@schools.nyc.gov",
+  "rooms": "bS12",
+  "meeting_days": "Wednesdays",
+  "frequency": "weekly"
+ },
+ {
+  "club": "Super Smash Bros.",
+  "advisor_name": "Randy Levadas",
+  "email": "RLevada@schools.nyc.gov",
+  "rooms": "6W6",
+  "meeting_days": "Thursdays",
+  "frequency": "Weekly"
+ },
+ {
+  "club": "Surgeon Club",
+  "advisor_name": "Annalise Armenta",
+  "email": "aarmenta@schools.nyc.gov",
+  "rooms": "2W2",
+  "meeting_days": "Wednesdays",
+  "frequency": "Monthly"
+ },
+ {
+  "club": "TableTop Game Design Club",
+  "advisor_name": "Mr. Hoiming Bonny Lee",
+  "email": "hlee37@schools.nyc.gov",
+  "rooms": "4N6",
+  "meeting_days": "Thursday",
+  "frequency": "Weekly"
+ },
+ {
+  "club": "Tabletop Gaming Club",
+  "advisor_name": "Rachel Kaufman",
+  "email": "rkaufman8@schools.nyc.gov",
+  "rooms": "2N4",
+  "meeting_days": "Tuesdays",
+  "frequency": "Weekly"
+ },
+ {
+  "club": "Taiwanese Association Club",
+  "advisor_name": "Keith Kilgore",
+  "email": "kkilgore2@schools.nyc.gov",
+  "rooms": "5E14",
+  "meeting_days": "Monday",
+  "frequency": "weekly"
+ },
+ {
+  "club": "Taylor Swift Appreciation Club",
+  "advisor_name": "Ms. Jennifer Kim",
+  "email": "JKim39@schools.nyc.gov",
+  "rooms": "4E22",
+  "meeting_days": "Thursday",
+  "frequency": "Biweekly (2nd and 4th)"
+ },
+ {
+  "club": "Team Naach",
+  "advisor_name": "Juana Karina Nava",
+  "email": "Jnava16@schools.nyc.gov",
+  "rooms": "2W20",
+  "meeting_days": "Tuesdays",
+  "frequency": "Bi-weekly"
+ },
+ {
+  "club": "Tech Tetris",
+  "advisor_name": "Doug Weiner",
+  "email": "dougdouglas1965@gmail.com",
+  "rooms": "6N2",
+  "meeting_days": "Thursday",
+  "frequency": "Weekly"
+ },
+ {
+  "club": "Tech Tips",
+  "advisor_name": "Zachary Gale",
+  "email": "ZGale@schools.nyc.gov",
+  "rooms": "4C1",
+  "meeting_days": "Monday",
+  "frequency": "Bi-weekly (EVEN day Mondays)"
+ },
+ {
+  "club": "Tech Transit Association",
+  "advisor_name": "Fakhrudin (Rudy) Miraki",
+  "email": "FMiraki2@schools.nyc.gov",
+  "rooms": "6W12",
+  "meeting_days": "Mondays",
+  "frequency": "Weekly"
+ },
+ {
+  "club": "Tech Trivia",
+  "advisor_name": "Mr Locke",
+  "email": "jlocke@schools.nyc.gov",
+  "rooms": "2W20",
+  "meeting_days": "Wednesday",
+  "frequency": "Biweekly"
+ },
+ {
+  "club": "TechCodes",
+  "advisor_name": "Michael Miller",
+  "email": "mmiller25@schools.nyc.gov",
+  "rooms": "Thursday: 2N2 / Friday: 2N2 & 2N4",
+  "meeting_days": "Thursdays and Fridays",
+  "frequency": "Weekly"
+ },
+ {
+  "club": "Technically Music",
+  "advisor_name": "Alexander Tasopoulos",
+  "email": "atasopoulos@schools.nyc.gov",
+  "rooms": "9W16",
+  "meeting_days": "Wednesdays",
+  "frequency": "Weekly"
+ },
+ {
+  "club": "Technovation Girls: Equality in Education",
+  "advisor_name": "Mr. Folwell",
+  "email": "nfolwell@schools.nyc.gov",
+  "rooms": "3W6",
+  "meeting_days": "Tuesday",
+  "frequency": "weekly"
+ },
+ {
+  "club": "Techpod",
+  "advisor_name": "Julia DeBenedetto",
+  "email": "jdebenedetto@schools.nyc.gov",
+  "rooms": "2W7",
+  "meeting_days": "Wednesdays",
+  "frequency": "Weekly"
+ },
+ {
+  "club": "TechRecs",
+  "advisor_name": "Ms. Katrina Kaplan",
+  "email": "kkaplan5@schools.nyc.gov",
+  "rooms": "5W24",
+  "meeting_days": "Thursday",
+  "frequency": "Bi-weekly"
+ },
+ {
+  "club": "TechUnique",
+  "advisor_name": "Ramona Richardson",
+  "email": "rrichardson@bths.edu",
+  "rooms": "Cafeteria",
+  "meeting_days": "Wednesdays and Fridays",
+  "frequency": "Weekly"
+ },
+ {
+  "club": "Terrarity",
+  "advisor_name": "Richard Singler",
+  "email": "rsingler@schools.nyc.gov",
+  "rooms": "5N2",
+  "meeting_days": "Thursdays",
+  "frequency": "Weekly"
+ },
+ {
+  "club": "The Beatles Club",
+  "advisor_name": "Mr. Ostrowsky",
+  "email": "aostrow@schools.nyc.gov",
+  "rooms": "6C6",
+  "meeting_days": "Tuesday",
+  "frequency": "Monthly"
+ },
+ {
+  "club": "The Book Club",
+  "advisor_name": "Chrystalleni Stivaros",
+  "email": "cstivaros@schools.nyc.gov",
+  "rooms": "3W9",
+  "meeting_days": "Mondays",
+  "frequency": "Bi-Weekly"
+ },
+ {
+  "club": "The Club Club",
+  "advisor_name": "Mr. Hoiming Bonny Lee",
+  "email": "hlee37@schools.nyc.gov",
+  "rooms": "4N4 and 4N2",
+  "meeting_days": "Wednesday",
+  "frequency": "Bi-Weekly"
+ },
+ {
+  "club": "The East Asian Language Club",
+  "advisor_name": "Mr. Holmer",
+  "email": "qholmer@schools.nyc.gov",
+  "rooms": "1N3",
+  "meeting_days": "Mondays",
+  "frequency": "Weekly"
+ },
+ {
+  "club": "The Economics of Soccer Club",
+  "advisor_name": "Mr. Apollon",
+  "email": "sapollon@schools.nyc.gov",
+  "rooms": "1E19",
+  "meeting_days": "Wednesday",
+  "frequency": "Bi-weekly"
+ },
+ {
+  "club": "The Fantasy Book Club",
+  "advisor_name": "Joy Ferguson",
+  "email": "jferguson9@schools.nyc.gov",
+  "rooms": "Library",
+  "meeting_days": "Tuesdays",
+  "frequency": "Bi-Weekly"
+ },
+ {
+  "club": "the Francophone Club",
+  "advisor_name": "Alessandra De Meo",
+  "email": "ademeo2@schools.nyc.gov",
+  "rooms": "6W24",
+  "meeting_days": "Thursday",
+  "frequency": "Bi weekly"
+ },
+ {
+  "club": "The Mahjong Club",
+  "advisor_name": "Arup Mukherjee",
+  "email": "amukherjee@schools.nyc.gov",
+  "rooms": "5E14",
+  "meeting_days": "Wednesdays",
+  "frequency": "Bi-weekly"
+ },
+ {
+  "club": "The Nintendo Club",
+  "advisor_name": "Areej Hafeez",
+  "email": "Ahafeez@schools.nyc.gov",
+  "rooms": "3E18",
+  "meeting_days": "Fridays",
+  "frequency": "Weekly"
+ },
+ {
+  "club": "The Radish",
+  "advisor_name": "Zachary Gale",
+  "email": "zgale@schools.nyc.gov",
+  "rooms": "2N3",
+  "meeting_days": "Wednesdays",
+  "frequency": "Weekly"
+ },
+ {
+  "club": "The Roblox Club",
+  "advisor_name": "Michael Miller",
+  "email": "MMiller25@schools.nyc.gov",
+  "rooms": "1N3",
+  "meeting_days": "Wednesday",
+  "frequency": "Biweekly"
+ },
+ {
+  "club": "The Survey Student Newspaper Club",
+  "advisor_name": "Thomas Wentworth",
+  "email": "twentworth@schools.nyc.gov",
+  "rooms": "3N6",
+  "meeting_days": "Tuesdays",
+  "frequency": "Weekly"
+ },
+ {
+  "club": "Together for Ukraine",
+  "advisor_name": "Joshua Hurd",
+  "email": "JHurd2@schools.nyc.gov",
+  "rooms": "5W6",
+  "meeting_days": "Thursday",
+  "frequency": "Weekly"
+ },
+ {
+  "club": "Tri-M Music Honor Society",
+  "advisor_name": "Alexander Tasopoulos",
+  "email": "atasopoulos@schools.nyc.gov",
+  "rooms": "9W19",
+  "meeting_days": "Fridays",
+  "frequency": "Weekly"
+ },
+ {
+  "club": "TryCrafts",
+  "advisor_name": "Locke Jeffery",
+  "email": "jlocke2@nycstudents.net",
+  "rooms": "BN5",
+  "meeting_days": "Wednesday",
+  "frequency": "Weekly"
+ },
+ {
+  "club": "Ukrainian Union",
+  "advisor_name": "Ken Ip",
+  "email": "kip@schools.nyc.gov",
+  "rooms": "7S2",
+  "meeting_days": "Monday",
+  "frequency": "Monthly"
+ },
+ {
+  "club": "Ultimate Frisbee Club",
+  "advisor_name": "Alexandra Carter",
+  "email": "acarter25@schools.nyc.gov",
+  "rooms": "Fort Greene",
+  "meeting_days": "Friday",
+  "frequency": "Monthly"
+ },
+ {
+  "club": "UNA-USA",
+  "advisor_name": "Mr. Holmer",
+  "email": "qholmer@schools.nyc.gov",
+  "rooms": "1W26",
+  "meeting_days": "first Tuesday of the month",
+  "frequency": "Monthly"
+ },
+ {
+  "club": "UNICEF",
+  "advisor_name": "Stephanie Doire",
+  "email": "sdoire@schools.nyc.gov",
+  "rooms": "6S05",
+  "meeting_days": "Fridays",
+  "frequency": "Monthly"
+ },
+ {
+  "club": "Urban Ecology Club",
+  "advisor_name": "Diana Liu",
+  "email": "dliu3@schools.nyc.gov",
+  "rooms": "5W8",
+  "meeting_days": "Wednesday",
+  "frequency": "Weekly"
+ },
+ {
+  "club": "Venture Capital Club",
+  "advisor_name": "Andrew Ostrowsky",
+  "email": "aostrow@schools.nyc.gov",
+  "rooms": "6C6",
+  "meeting_days": "Tuesday",
+  "frequency": "Bi-Weekly"
+ },
+ {
+  "club": "Vietnamese Student's Association",
+  "advisor_name": "Vivi Nguyen",
+  "email": "vnguyen5@schools.nyc.gov",
+  "rooms": "3W12",
+  "meeting_days": "Monday",
+  "frequency": "Monthly"
+ },
+ {
+  "club": "Volleyball Club",
+  "advisor_name": "Jeffrey Park",
+  "email": "Jpark13@schools.nyc.gov",
+  "rooms": "Fort Green Park",
+  "meeting_days": "Wednesday",
+  "frequency": "Weekly"
+ },
+ {
+  "club": "WAS",
+  "advisor_name": "Carter Lisa",
+  "email": "Lcarter3@schools.nyc.gov",
+  "rooms": "5E2 & Zoom: https://zoom.us/j/99145376629?pwd=UStkbFp6NmJKM2syYzQ3UUFtOWppUT09",
+  "meeting_days": "Tuesday",
+  "frequency": "Weekly"
+ },
+ {
+  "club": "Wildlife Conservation Club",
+  "advisor_name": "Stephanie Doire",
+  "email": "sdoire@schools.nyc.gov",
+  "rooms": "6s5",
+  "meeting_days": "Mondays",
+  "frequency": "Bi-weekly"
+ },
+ {
+  "club": "Wind Ensemble",
+  "advisor_name": "Deshawn Withers",
+  "email": "DWithers@schools.nyc.gov",
+  "rooms": "8W18",
+  "meeting_days": "Wednesday",
+  "frequency": "Weekly (not specified)"
+ },
+ {
+  "club": "Windbreakers",
+  "advisor_name": "Ms. Nava",
+  "email": "jnava16@schools.nyc.gov",
+  "rooms": "2W20",
+  "meeting_days": "Friday",
+  "frequency": "Weekly"
+ },
+ {
+  "club": "Women Authors",
+  "advisor_name": "Katrina",
+  "email": "kkaplan5@schools.nyc.gov",
+  "rooms": "5W16",
+  "meeting_days": "Odd Thursday",
+  "frequency": "Bi-weekly"
+ },
+ {
+  "club": "Women's Health Club",
+  "advisor_name": "Ms.Ramona Richardson",
+  "email": "RRichar3@schools.nyc.gov",
+  "rooms": "7C7",
+  "meeting_days": "",
+  "frequency": "Monthly"
+ },
+ {
+  "club": "World Cinema Club",
+  "advisor_name": "Michael Miller",
+  "email": "mmiller25@schools.nyc.gov",
+  "rooms": "2N8",
+  "meeting_days": "Monday",
+  "frequency": "Bi-Weekly"
+ },
+ {
+  "club": "Young Entrepreneurs of Brooklyn Tech.",
+  "advisor_name": "Isaiah Pratt",
+  "email": "Ipratt!@schools.nyc.gov",
+  "rooms": "2N6",
+  "meeting_days": "Tuesday",
+  "frequency": "Weekly (not specified)"
+ },
+ {
+  "club": "Youth and Safety",
+  "advisor_name": "Danrong Huang",
+  "email": "dhuang5@schools.nyc.gov",
+  "rooms": "5E8",
+  "meeting_days": "Monday",
+  "frequency": "Monthly (Last Monday)"
+ },
+ {
+  "club": "Vitality Club",
+  "advisor_name": "Manuel Martinez",
+  "email": "mmartin41@schools.nyc.gov",
+  "rooms": "BW20",
+  "meeting_days": "Thursday",
+  "frequency": "Weekly"
+ },
+ {
+  "club": "Dental Equity Club",
+  "advisor_name": "Jenny Ferry",
+  "email": "jferry@schools.nyc.gov",
+  "rooms": "5E20",
+  "meeting_days": "Tuesday",
+  "frequency": "Biweekly"
+ },
+ {
+  "club": "Sociology Club",
+  "advisor_name": "Alise Braick",
+  "email": "abraick@schools.nyc.gov",
+  "rooms": "change name",
+  "meeting_days": "",
+  "frequency": ""
+ },
+ {
+  "club": "Mind4Youth",
+  "advisor_name": "Doug Weiner",
+  "email": "dweiner2@schools.nyc.gov",
+  "rooms": "1E4",
+  "meeting_days": "Monday",
+  "frequency": "Biweekly"
+ },
+ {
+  "club": "Debate Dash",
+  "advisor_name": "Nina Granberry",
+  "email": "ngranberry3@schools.nyc.gov",
+  "rooms": "",
+  "meeting_days": "Change name",
+  "frequency": ""
+ },
+ {
+  "club": "Learn Crochet with Croakiechet",
+  "advisor_name": "Annalise Armenta",
+  "email": "aarmenta@schools.nyc.gov",
+  "rooms": "2W2",
+  "meeting_days": "Thursday",
+  "frequency": "Weekly"
+ },
+ {
+  "club": "Alchemy Club",
+  "advisor_name": "Shirley Dong Shameen",
+  "email": "sdong@schools.nyc.gov",
+  "rooms": "4E10",
+  "meeting_days": "Fridays",
+  "frequency": "Biweekly"
+ }
+]
