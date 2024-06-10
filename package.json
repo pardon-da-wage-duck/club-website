@@ -2,6 +2,7 @@
   "dependencies": {
     "convert-csv-to-json": "^2.47.0",
     "dotenv": "^16.4.5",
+    "http": "^0.0.1-security",
     "mongodb": "^6.7.0"
   }
 }
