@@ -51,8 +51,33 @@ async function updateData(){
       }
 }
 
-updateData();
+/**
+ * Searches and returns the documents from mongodb database that matches the filter
+ * @param query a JSON object containing the search criteria, ex: {"field_name": value, "filed_name": value}
+ * @param output a JSON object containing specified fields to be returned 
+ * documentation: https://www.mongodb.com/docs/manual/reference/method/db.collection.find/#std-label-method-find-projection
+ */
+async function findClubs(query, output){
+  try {
+    await client.connect();
+    const cursor = await client.db(clubsDatabase).collection(clubsCollection).find(query, output).limit(10);
+    const result = await cursor.toArray();
+    console.log(result)
+    return result;
+  } finally {
+    // Close the database connection when finished or an error occurs
+    await client.close();
+  }
+}
 
+async function main(){
+  const filter = {"meeting_days": "Wednesdays"};
+  const options = {projection: {"club": 1}};
+  const response = await findClubs(filter, options);
+  // console.log(response);
+}
+
+main();
 
 //code used to convert csv file to a json file
 // let csvToJson = require('convert-csv-to-json');
@@ -64,3 +89,4 @@ updateData();
 //             .parseSubArray("*",',')
 //             .supportQuotedField(true)
 //             .generateJsonFileFromCsv(fileInputName,fileOutputName);
+

@@ -16,12 +16,19 @@ client.connect();
  * documentation: https://www.mongodb.com/docs/manual/reference/method/db.collection.find/#std-label-method-find-projection
  */
 async function findClubs(query, output){
-  const result = await client.db(clubsDatabase).collection(clubsCollection).find(filter, output);
-  console.log(result);
-  return result;
+  try {
+    await client.connect();
+    const cursor = await client.db(clubsDatabase).collection(clubsCollection).find(query, output).limit(10);
+    const result = await cursor.toArray();
+    console.log(result)
+    return result;
+  } finally {
+    // Close the database connection when finished or an error occurs
+    await client.close();
+  }
 }
 
-const port = 8443;
+const port = 8081;
 http.createServer(function (req, res) {
   let body = "";
   req.on('data', chunk => {
@@ -42,11 +49,12 @@ http.createServer(function (req, res) {
 
       switch (body.request) {
         case "loadCatalog":
-          response = await findClubs({}, {
-            "club": 1, 
-          }).toArray;
-          console.log(response);
-          res.write(response);
+          setTimeout(function(){
+            response = findClubs({}, {projection: {"club": 1}}).toArray;
+            console.log(response);
+            res.write(response);
+          }, 900);
+        
           break;
         case "request_name":
           //function
