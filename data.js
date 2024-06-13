@@ -87,14 +87,16 @@ async function setSearchIndex(){
 
 
 async function main(){
-  const queries = ["code", "tech", "coding"];
-  for(let i = 0; i < 3; i++){
-    const filter = {$text: { $search: queries[i] }};
-    const options = {};
-    const response = await findClubs(filter, options);
-    console.log(response);
-  }
+  // const queries = ["code", "tech", "coding"];
+  // for(let i = 0; i < 3; i++){
+  //   const filter = {$text: { $search: queries[i] }};
+  //   const options = {};
+  //   const response = await findClubs(filter, options);
+  //   console.log(response);
+  // }
     
+  const result = await findClubs({},{});
+  console.log(result);
   // setSearchIndex();
 }
 
