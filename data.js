@@ -87,17 +87,17 @@ async function setSearchIndex(){
 
 
 async function main(){
-  // const queries = ["code", "tech", "coding"];
-  // for(let i = 0; i < 3; i++){
+  // const queries = [""/"Mr. Holmer"/""];
+  // for(let i = 0; i < 1; i++){
   //   const filter = {$text: { $search: queries[i] }};
   //   const options = {};
   //   const response = await findClubs(filter, options);
   //   console.log(response);
   // }
     
-  const result = await findClubs({},{});
+  const result = await findClubs({"club_advisor": "Mr. Holmer"},{});
   console.log(result);
-  // setSearchIndex();
+  setSearchIndex();
 }
 
 main();
