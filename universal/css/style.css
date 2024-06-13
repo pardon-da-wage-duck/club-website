@@ -1,15 +1,18 @@
-/**body*/
-* {
+/* * {
     border: 1px solid red;
-}
+} */
 
 body {
-    margin: 0;
     font-family: Arial, Helvetica, sans-serif;
+    min-height: 100vh;
+    margin: 0;
+    display: grid;
+    grid-template-rows: auto 1fr auto;
 }
 
 /**header*/
 header{
+    min-height: 50px;
     font-weight: 200;
     background-color: white;
     width: 100%;
@@ -27,6 +30,22 @@ header a img{
     font-family: 'Times New Roman', Times, serif;
     font-size: 50px;
     color: #032d64;
+}
+
+#account{
+    position: absolute;
+    top: 1%;
+    right: 1%;
+    color: white;
+    background-color: #032d64;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+}
+
+#account: hover{
+    background-color: #0165d8;
 }
 
 /**styling for the navigation bar*/
@@ -50,13 +69,22 @@ nav a:hover {
 }
 
 /**footer*/
-footer span{
-    position: fixed; 
-    bottom: 0;
+footer{
+    min-height: 50px;
     background-color: #032d64;
+    color: white;
     width: 100%;
 }
 
-footer p{
+footer a{
     color: white;
+}
+
+footer a:hover{
+    opacity: 70%;
+}
+
+footer div{
+    float: right;
+    padding: 14px 16px;
 }

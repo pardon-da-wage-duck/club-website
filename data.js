@@ -28,7 +28,6 @@ async function uploadData(array){
       }
 }
 
-
 async function updateData(){
     try {
         await client.connect();
@@ -57,12 +56,11 @@ async function updateData(){
  * @param output a JSON object containing specified fields to be returned 
  * documentation: https://www.mongodb.com/docs/manual/reference/method/db.collection.find/#std-label-method-find-projection
  */
-async function findClubs(query, output){
+async function findClubs(query, projection){
   try {
     await client.connect();
-    const cursor = await client.db(clubsDatabase).collection(clubsCollection).find(query, output).limit(10);
+    const cursor = await client.db(clubsDatabase).collection(clubsCollection).find(query, projection);
     const result = await cursor.toArray();
-    console.log(result)
     return result;
   } finally {
     // Close the database connection when finished or an error occurs
@@ -70,11 +68,34 @@ async function findClubs(query, output){
   }
 }
 
+async function setSearchIndex(){
+  try {
+    await client.connect();
+    await client.db(clubsDatabase).collection(clubsCollection).createIndex({
+      "club": "text",
+      "advisor_name": "text",
+      "email": "text",
+      "rooms": "text",
+      "meeting_days": "text",
+      "frequency": "text",
+      "description": "text"});
+  } finally {
+    // Close the database connection when finished or an error occurs
+    await client.close();
+  }
+}
+
+
 async function main(){
-  const filter = {"meeting_days": "Wednesdays"};
-  const options = {projection: {"club": 1}};
-  const response = await findClubs(filter, options);
-  // console.log(response);
+  const queries = ["code", "tech", "coding"];
+  for(let i = 0; i < 3; i++){
+    const filter = {$text: { $search: queries[i] }};
+    const options = {};
+    const response = await findClubs(filter, options);
+    console.log(response);
+  }
+    
+  // setSearchIndex();
 }
 
 main();

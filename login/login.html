@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <link rel="stylesheet" href="style.css">
+    <link rel= "stylesheet" href = "../universal/css/style.css">
+    <link rel="icon" type="image/x-icon" href="../universal/images/bths-logo.ico">
+    <script></script>
+
+    <title>BTHS Club Directory | Template</title>
+  </head>
+  <body>
+    <header>
+        <a href = "../homepage/home.html"><img src = "../universal/images/bths_logo.png" width = "100px" alt = "bths school logo"></a>
+        <h1 id = "website_name">Brooklyn Technical High School Activities</h1>
+        <a id = "account" href = "./login.html">My Account</a>
+  
+        <nav>
+          <a href = "../homepage/home.html">Home</a>
+          <a href = "../club-catalog/club-catalog.html">Club Catalog</a>
+          <a href = "../my-clubs/my-clubs.html">My Clubs</a>
+          <a href = "../psal/psal.html">PSAL Sports</a>
+        </nav>
+    </header>
+
+    <section id = "login">
+        <form action="action_page.php" method="post">
+            <h1>Login</h1>
+            <div class="container">
+            <label for="uname"><b>Username</b></label>
+            <input type="text" placeholder="Enter Username" name="uname" required>
+        
+            <label for="psw"><b>Password</b></label>
+            <input type="password" placeholder="Enter Password" name="psw" required>
+        
+            <button type="submit">Login</button>
+            <label>
+                <input type="checkbox" checked="checked" name="remember"> Remember me
+            </label>
+            </div>
+        
+            <div class="container" style="background-color:#f1f1f1">
+            <button type="button" class="cancelbtn"><a href = "../homepage/home.html"></a>Cancel</button>
+            <span class="create-account">Don't have an account?<a href="./account-creation.html"> Create an account.</a></span>
+            <span class="psw">Forgot <a href="#">password?</a></span>
+            </div>
+        </form>  
+    </section>
+
+    <footer>
+        <span>
+          <h3>Brooklyn Technical High School Activities</h3> 
+          <div id = "learn-more">
+            <h4>Learn more:</h4>
+            <a href = "../about-us/about-us.html">About Us</a>
+            <a href = "../terms-policy.html">Terms & Policy</a>
+          </div>
+          <div id = contact-us">
+            <h4>Links:</h4>
+            <a href = "https://www.bths.edu/">School Website</a>
+          </div>
+          <p id = "copyright">(c) Copyright 2024, All Rights Reserved.</p>
+          
+        </span>
+      </footer>
+  </body>
+</html>
