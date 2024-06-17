@@ -94,10 +94,9 @@ async function main(){
   //   const response = await findClubs(filter, options);
   //   console.log(response);
   // }
-    
-  const result = await findClubs({"club_advisor": "Mr. Holmer"},{});
+
+  const result = await findClubs({},{});
   console.log(result);
-  setSearchIndex();
 }
 
 main();
